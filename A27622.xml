@@ -1,0 +1,723 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A review of what God hath been pleased to do this year, according to prophecy and particularly near the 23d of the month we stile August : in the general peace, and the Muscovian and imperial victories over the Turks : with a most humble apology and defence concerning the falling short of events, of what was expected according to the interpretation of that sure word of prophecy / by T. Beverley.</title>
+            <author>Beverley, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 87 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27622</idno>
+            <idno type="STC">Wing B2171</idno>
+            <idno type="STC">ESTC R37111</idno>
+            <idno type="EEBO-CITATION">16218838</idno>
+            <idno type="OCLC">ocm 16218838</idno>
+            <idno type="VID">105104</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27622)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105104)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1087:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A review of what God hath been pleased to do this year, according to prophecy and particularly near the 23d of the month we stile August : in the general peace, and the Muscovian and imperial victories over the Turks : with a most humble apology and defence concerning the falling short of events, of what was expected according to the interpretation of that sure word of prophecy / by T. Beverley.</title>
+                  <author>Beverley, Thomas.</author>
+               </titleStmt>
+               <extent>[8], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Marshal... and John M[a]rshal ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCVIII [1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: God hath pleased to do this year, &amp;c.</note>
+                  <note>Imperfect: cropped, with loss of print.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Prophecies.</term>
+               <term>Austro-Turkish War, 1683-1699.</term>
+               <term>Europe --  Politics and government --  1648-1715.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Claire Tolan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Claire Tolan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105104:1"/>
+            <pb facs="tcp:105104:1" rendition="simple:additions"/>
+            <p>A REVIEW OF What God hath been pleaſed to do This Year, According to <hi>PROPHECY;</hi> And particularly near the <hi>23d</hi> of the Month we ſtile <hi>Auguſt</hi> IN THE General Peace, and the <hi>Muſcovian</hi> and <hi>Imperi<g ref="char:EOLhyphen"/>al Victories</hi> over the <hi>Turks.</hi>
+            </p>
+            <p>WITH A moſt Humble <hi>Apology</hi> and <hi>Defence</hi> concern<g ref="char:EOLhyphen"/>ing the falling ſhort of Events, of what was expe<g ref="char:EOLhyphen"/>cted according to the Interpretation of that ſure Word of Prophecy.</p>
+            <p>By <hi>T. BEVERLEY.</hi>
+            </p>
+            <q>
+               <bibl>Pſal. 111. 2.</bibl> The Works of the Lord are great, ſought out of All who have plea<g ref="char:EOLhyphen"/>ſure therein.</q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>William Marſhal</hi> at the <hi>Bible</hi> in <hi>Newgate-ſtreet,</hi> and <hi>John M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<g ref="char:EOLhyphen"/>ſhal</hi> at the <hi>Bible</hi> in <hi>Grace-Church-Street.</hi> MDCXCVIII</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:105104:2"/>
+            <pb facs="tcp:105104:2"/>
+            <head>TO THE RIGHT HONOURABLE Sir Humfry Edwyn, LORD MAYOR Of the City of <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>I Have obſerved, The ſupreme Providence, hath Placed you in the moſt Eminent <hi>Magiſtracys</hi> of this <hi>Great City,</hi> in Two Extraordinary Years, Engraven upon with Illuſtri<g ref="char:EOLhyphen"/>ous Appearances of his own Hand; Your <hi>Sherivalry,</hi> as I have been aſſured in the Year 88, The Year of the ſo Great <hi>Revolution</hi> in theſe Nations; and your Lordſhips <hi>Mayoral<g ref="char:EOLhyphen"/>ty</hi> Enters in this Year of the <hi>Peace,</hi> and the ſo <hi>Grand Vi<g ref="char:EOLhyphen"/>ctory</hi> of the <hi>Imperial Army</hi> over the <hi>Mahometan, Turkiſh Sig<g ref="char:EOLhyphen"/>niory;</hi> and both ſo cloſe together, and at a Time, as I ap<g ref="char:EOLhyphen"/>prehend, well known to <hi>Prophecy:</hi> I have therefore thought it my Duty, Humbly to preſent the following <hi>Review</hi> of both
+<pb facs="tcp:105104:3"/> to your Lordſhip, as in ſo High a Station, This ſo Great Year: And yet, If God hath Graciouſly led me into the t<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <hi>Interpretation</hi> of his <hi>Sure Word of Prophecy,</hi> This is but ſmall in Compariſon of your Authority, Extending it ſelf into the much Greater Year 98; As I hope it will be found; In which your <hi>Sword</hi> ſhall be born before the <hi>Prince of Prin<g ref="char:EOLhyphen"/>ces, the King of Kings and Lords of Lords, the Prince of the Kings of the Earth;</hi> I mean not in His <hi>Perſonal</hi> Appearance, as many either Ignorantly, or wilfully miſtake; but in Re<g ref="char:EOLhyphen"/>gard of the Glorious Manifeſtation of His Kingdom En<g ref="char:EOLhyphen"/>tring its <hi>Succeſſion;</hi> which will not Leſſen but Aggrandize both <hi>Royal</hi> and <hi>Magiſtratical Honour,</hi> and Authority, <hi>that Kiſſes the Son,</hi> and does Homage to This Supreme; and will not in the leaſt give Countenance to <hi>Anarchy,</hi> Confuſion, or Reſiſtance to that Ordinance of God by either <hi>Le elliſm</hi> or <hi>Rebellion;</hi> but Conciliate the moſt Holy, Humble and Pious ſubjecti<g ref="char:EOLhyphen"/>on to Authority ſo Enſtamp'd from Heaven, as then it will be.</p>
+            <p>I have taken Notice by General Diſcourſe; Your Lord<g ref="char:EOLhyphen"/>ſhip in your Publick Attendance on the Worſhip of God, appears to Deſire the Reconciliation of <hi>Protestants,</hi> whe<g ref="char:EOLhyphen"/>ther under thoſe undeſirable, and, as too much mannaged, unkind diſtinctions of <hi>Epiſcopacy, Presbytery,</hi> or <hi>Congregati<g ref="char:EOLhyphen"/>onal</hi> Union.</p>
+            <p>I hope, It is, as Falling out <hi>this Year,</hi> not without hap<g ref="char:EOLhyphen"/>py Preſages of that Bleſſed <hi>Philadelphian</hi> Church-State ſpeedily about to enter; In which all ſuch Names of differ<g ref="char:EOLhyphen"/>ence will be loſt in both the Purity and Love, that will over<g ref="char:EOLhyphen"/>flow them in the Succeſſion of that <hi>Kingdom;</hi> And as I have
+<pb facs="tcp:105104:3"/> ſome Years ago Foretold; That the <hi>Cathedral</hi> of <hi>Pauls,</hi> (as we ſtile it) whoſe Loughty Pile, which Providence ſeems to have allowed the Preparation of, for the <hi>National</hi> Solemn Acknowledgments of God in the <hi>Peace,</hi> wherein your <hi>Lordſhip</hi> will bear ſuch a Figure, ſhall yet, (I am perſwad<g ref="char:EOLhyphen"/>ed) ſpeedily with thoſe <hi>Names of Prelation</hi> and <hi>Prefidency</hi> in it, that have their only Baſis in that Antiquity, wherein the <hi>Synagogue of Sathan</hi> began to have the <hi>Aſcendency,</hi> and not in pure Scripture-Antiquity, <hi>Bow Themſelves</hi> at the <hi>Feet</hi> of that <hi>Philadelphian State,</hi> and <hi>Acknowledge,</hi> Chriſt hath Loved and Choſen it; or elſe both the <hi>Prelacy</hi> and the <hi>Cathe<g ref="char:EOLhyphen"/>drals</hi> will ſuffer Abrogation, and become uſeleſs;</p>
+            <p>There is one thing more, I Congratulate to your Lord<g ref="char:EOLhyphen"/>ſhip this Year of your ſo eminent <hi>Magiſtracy</hi> in; And that is, An appearance of Zeal for the Retrenchment and Ex<g ref="char:EOLhyphen"/>tirpation of open Prophaneſs, Irreligion, and Lewdneſs of Manners: I cannot but have an Honour for any ſuch un<g ref="char:EOLhyphen"/>dertaking, and beſeech of God his preſence with it, and Bleſſing upon it; So far as it bears, but a deſire to prepare for, (if I may ſo allude) a <hi>Temple</hi> for God in the <hi>Nation;</hi> and I doubt not. It will have the aſſiſtance of your Authority, and other the Religious Participants of your Government; But yet I cannot but hope<g ref="char:punc">▪</g> 
+               <hi>Our Greater Solomon</hi> will be ſupreme in the Adminiſtrat<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, and Raiſe it much higher then Man can do.</p>
+            <p>My Lord<g ref="char:punc">▪</g> As to my ſelf, I cannot claim any particular Knowledge of, or Intereſt in you; but looking upon your Magiſtracy in 88, and 98, as Honoured with a Prophetick<g ref="char:EOLhyphen"/>neſs, I have on that Account taken the boldneſs to In<g ref="char:EOLhyphen"/>ſcribe your Name, and I do very humbly beſeech your
+<pb facs="tcp:105104:4"/> Patronage of this Review under its Great Patron, and the acceptance of this Dedication; Till it ſhall be able, as I hope, it will within few Months be, to Anſwer for it ſelf to all that ſhall <hi>ſend to it or ask a Reaſon of its Hope;</hi> as owned by that Higher Patronage, publickly in the Eyes of all. In the mean time, as I moſt humbly beg the Prayers of all, who <hi>Love the Kingdom of our Lord Jeſus Chriſt;</hi> So my moſt Fer<g ref="char:EOLhyphen"/>vent and Earneſt <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>upplications ſhall be for the <hi>Magiſtracy</hi> of this <hi>Great City,</hi> and their as Honourable Station in the King<g ref="char:EOLhyphen"/>dom of Chriſt; and moſt particularly for your Lordship.</p>
+            <closer>
+               <dateline>
+                  <date>Mo. 9. D. 12th. 1697.</date>
+               </dateline>
+               <salute>My Lord,</salute>
+               <signed>Your Lordſhips, Moſt Humble Servant, In that Kingdom, THO. BEVERLEY.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:105104:4"/>
+            <head>An earneſt Invitation, and Perſwaſion to All, that profeſs a Reverence of the Divine Majeſty, to <hi>Regard</hi> the <hi>Works</hi> of the <hi>Lord;</hi> and to take <hi>Pleaſure</hi> in <hi>Searching</hi> them out in their <hi>Greatneſs,</hi> particularly this Year; By way of Preface to the following Diſcourſe.</head>
+            <p>SEeing this Review reſts upon the very Eminent Appearances of God in this preſent Year 1697, I think it no way Improper to prefix a ſerious per<g ref="char:EOLhyphen"/>ſwaſive, deeply to conſider the <hi>Operations</hi> of the <hi>Divine Hand,</hi> and to <hi>ſearch them out, as Hidden Treaſures.</hi>
+            </p>
+            <p>It is the <hi>Atheiſm,</hi> and Irreverence of the Divine Being, and his Government of the World, that we Laviſh out his Great Providences into no other Diſ<g ref="char:EOLhyphen"/>courſes, but as of News; This is not the Buſineſs of a ſerious Chriſtian, and of thoſe who have the Aſſiſtance of <hi>Sacred Hiſtory,</hi> directing us what obſervations to make upon thoſe works; and the <hi>Sure Word of Prophecy</hi> Guiding us, what we are to expect, by due Reflexion, on what God hath done according to <hi>Prophecy,</hi> to what he will do to the End of the World: It is not enough for us with a ſhew of Great Wiſdom and Foreſight, to Dilate upon the Political Tendencies of Great Events, leaſt we Fall into the <hi>Hipocriſy</hi> of the <hi>Phariſees,</hi> who were able to make Natural obſervations on the Face of the Heavens, but could not <hi>Diſcern the ſigns of the Times:</hi> We ought as to make Improvement of Mercies, and Judg<g ref="char:EOLhyphen"/>ments, <hi>to ſearch and try our ways, and to turn unto the Lord; to Praiſe Him for his wonderful Works to the Children of Men; So to <g ref="char:V">Ʋ</g>nderſtand as the Sons of Iſſachar</hi> the <hi>Times,</hi> that we may know what <hi>Iſrael ought to do;</hi> how to order our Supplicati<g ref="char:EOLhyphen"/>ons, and Declarations of the Hand of God; For all his Servants are yet <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itneſſes in Sackcloth, who have <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ower to ſmite the Antichriſtian Earth with Plagues, as often, as they will;</hi> And it is their Duty at all Times to will <hi>to do it;</hi> to <hi>Prophecy</hi> to <hi>Prophecy,</hi> as God Commanded <hi>Ezekiel;</hi> That is, with Reſolution, and Conſtancy to declare the Judgments of God on the <hi>Antichriſtian Papacy;</hi> and to <hi>ſhoot with the Arrow of the Lords Deliverance,</hi> not Twice or Thrice, but Seven Times to its utter Ruine; and to <hi>Give no Reſt to our God,</hi> Till He make <hi>Jeruſalem a Praiſe in the Earth.</hi> It is the Great Sin of Proteſtants, they do neither at this Time, with Becoming Zeal.</p>
+            <pb facs="tcp:105104:5"/>
+            <p>I will therefore preſent, as under one view, the Great Works of God this Year, that are more Largely Diſcourſed in the following Treatiſe, and with ſome Remarks, that have not been made therein.</p>
+            <p n="1">1. The Peace <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n theſe <hi>European Nations</hi> Signed the very Day of the Ancient <hi>Attonement,</hi> and <hi>Jubilee,</hi> and the <hi>Emperors</hi> Entry into it on the Day of <hi>Luthers</hi> Publication of his Goſpel<g ref="char:punc">▪</g> Poſitions in the Firſt opening of the <hi>Reformation</hi> 1517; Oh! That as that was in the Beginning of <hi>Half Time,</hi> ſo there may be at this End of it, a far Higher <hi>Jub l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> and <hi>Reformation.</hi>
+            </p>
+            <p n="2">2. The <hi>Turkiſh</hi> ſo wonderful Defeat, as ſtruck with a Divine Terror, ſo upon the <hi>Prophetical Hour</hi> of <hi>Auguſt,</hi> and it ſtill continuing; Anſwering the Beginning of the <hi>Beaſts</hi> Forty two <hi>Moons;</hi> and ſo, I hope<g ref="char:punc">▪</g> at this Time declaring His End.</p>
+            <p n="3">3 The Prince of <hi>Muſcovies</hi> ſo Illuſtrious Efforts, upon whom the <hi>Spirit</hi> of God hath appeared to <hi>Come,</hi> as on ſome of the worthies of Old; and by his Particular Love to <hi>Proteſtant</hi> Princes, as if He were the <hi>Firſt Fruits</hi> of the <hi>Greci<g ref="char:EOLhyphen"/>an Churches,</hi> and to be an Avenger of them on the <hi>Ottoman Power.</hi>
+            </p>
+            <p n="4">4 The Dawns of the Kingdom of Chriſt in any Beginnings of his <hi>Spirit pour<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d out;</hi> Zeal for <hi>Reformation;</hi> and Particularly in <hi>Ireland,</hi> where God hath by that Parliament Vindicated the Contempt thrown upon that Honourable Word of the <hi>New Teſtament; Myſtery;</hi> I hope, becauſe <hi>Finiſhing Myſtery,</hi> as He hath <hi>Evan<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>glized by his Servants the Pro-phets</hi> is ſo near;</p>
+            <p>And the Accumulation of his Great Works in All theſe things, on the lat<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er part of this Year, Gives Hopes, He is making haſte with his Greater Works in the End of this, and the Beginning of the Following Year.</p>
+            <p>The Inſtances againſt all this in the <hi>Popiſh</hi> continuing Grandieur, and its ſeem<g ref="char:EOLhyphen"/>ing to Increaſe, The <hi>Elector of Saxony</hi> under whoſe Anceſtors, The <hi>Reformati<g ref="char:EOLhyphen"/>on</hi> found its Firſt Protection, Giving back Himſelf, though not his Power as <hi>E<g ref="char:EOLhyphen"/>lector,</hi> to the <hi>Beaſt;</hi> Any other Prince doing ſo; The ſuffering Witneſſes in <hi>France</hi> and <hi>Savoy,</hi> not comprehended in, the Proteſtant Intereſt not ſufficiently ſecured by the Peace; I hope, Theſe are all only an Argument, The Great <hi>Prince</hi> of <hi>Princes</hi> is near to break all <hi>Antichriſtian</hi> Power <hi>without Hand;</hi> and that when, <hi>It Crys Peace, Peace,</hi> Its <hi>Plagues</hi> ſhall <hi>Come in one Hour.</hi>
+            </p>
+            <p>And that <hi>Man of ſin</hi> with that <hi>Blaſphemous Title; His Holineſs;</hi> ſhall be Thrown out of the <hi>Temple of God</hi> wherein He fits as God; by the <hi>Prayers of All Saints; and the Lord whom we ſeek, ſuddenly will come into His Temple.</hi>
+            </p>
+            <p>Now to All theſe Great purpoſes, Let the <hi>Lord God of the Holy Prophets, the Amen, the Faithful Witneſs,</hi> the Bleſſed Spirit, as <hi>Seven Eyes</hi> of Wiſdom and <hi>Horns of Power, Running through All the Earth,</hi> Appear for his Kingdom and Bleſs this Diſcourſe, and Fulfil the Word of his moſt unworthy Servant.</p>
+            <trailer>
+               <hi>Amen</hi> and <hi>Amen.</hi>
+            </trailer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:105104:5"/>
+            <head>
+               <hi>A Review</hi> Of what God hath been pleaſed to do this Year accord<g ref="char:EOLhyphen"/>ing to <hi>Prophecy,</hi> and particulorly near the 23d of the Month we ſtile, <hi>Auguſt;</hi> with a moſt humble <hi>A<g ref="char:EOLhyphen"/>pology</hi> and <hi>Defence</hi> concerning the falling ſhort of Events, of what was expected according to the <hi>In<g ref="char:EOLhyphen"/>terpretation of that ſure Word of Prophecy.</hi>
+            </head>
+            <p>HAving made ſo Long, and Large Declarations of what I have drawn from the <hi>Sure Word of Prophecy,</hi> concerning this <hi>Preſent Year</hi> 1697. And particularly near the 23d of the Month we Call, <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uguſt;</hi> And that nothing of ſo Great an Appearance hath yet been vouchſafed by our Good and Gracious God; It may be looked upon as my Duty, to make either an Humble Acknowledgment of my miſtake, and the Deception, that the Juſt and Holy Lord hath left me to therein, or to offer ſome <hi>Apology</hi> and <hi>Defence</hi> for my ſelf.</p>
+            <p>Now in the firſt Place, I would make the loweſt and moſt ſelf-abaſing Ac<g ref="char:EOLhyphen"/>knowledgment; That I am moſt unworthy of any ſuch Gracious Communica<g ref="char:EOLhyphen"/>tion, or Manifeſtation from God in his Word; And moſt worthy, whom He ſhould give up to Error and Miſtake: And that therefore, It would be no won<g ref="char:EOLhyphen"/>der, nor any thing ſtrange, If. He in juſt Wrath and Diſpleaſure have ſo left me; All I have to ſay, or plead againſt its being ſo, is Infinite Riches of Grace, Mercy and Compaſſion in Chriſt to the <hi>Cheif of Sinners.</hi>
+            </p>
+            <p>But this being firſt Acknowledged, there is yet the Great Honour I owe to the Word of Truth, and to the weighty Reaſons and Arguments I have de<g ref="char:EOLhyphen"/>rived from it; and the obligations that Lye upon me, to make the moſt Low<g ref="char:EOLhyphen"/>ly and Thankful Declarations for any Communications of Light to me, and of what God hath been pleaſed to begin to do this Year, and ſo hath not left wholly expoſed, what I have ſpoken with Relation to 97. I would render there<g ref="char:EOLhyphen"/>fore the beſt Accounts I could, in Points of ſo Great weight and concernment to the Churches of Chriſt, and even to the World in General, and to my ſelf in Particular.</p>
+            <pb n="2" facs="tcp:105104:6"/>
+            <p>The General Propoſal being then, to make a Review of this Year accordng to <hi>Prophecy;</hi> I would reduce the Diſcourſe upon it to theſe four Heads.</p>
+            <p n="1">1. To obſerve in a General way, and to Acknowledge Freely, what is moſt undeniably wanting in any thing, that hath yet come to paſs, of the Great Ex<g ref="char:EOLhyphen"/>pectations according to <hi>Prophecy,</hi> as yet in this 97.</p>
+            <p n="2">2. To preſs notwithſtanding; That due Confeſſion and Adoration be made of, and to Divine Providence in what hath Eminently been done this Year, and upon the very Time according to <hi>Prophecy;</hi> And to enquire diligently into its agreement with <hi>Prophecy.</hi>
+            </p>
+            <p n="3">3. To conſider what is to be expected, as Imported to us in that of our Lords Oath; That the <hi>myſtery</hi> of God ſhall be <hi>finiſhed</hi> in the Days of the <hi>Seventh An<g ref="char:EOLhyphen"/>gel, when</hi> Rev. 10. 7. <hi>He ſhall Begin to ſound,</hi> by obſerving the ſeveral Appli<g ref="char:EOLhyphen"/>cations of the Word <hi>Myſtery</hi> to Things in the New Teſtament; And ſhew<g ref="char:EOLhyphen"/>ing, that every one of thoſe things ſhall have their Complement, and Finiſhing from the <hi>Seventh Angel Beginning to ſound,</hi> Till the very <hi>Kingdom of Chriſt,</hi> and In it.</p>
+            <p n="4">4. To offer the beſt Conciliating Apprehenſions, and Hopes with Relation to Time, according to Scripture, and <hi>Prophecy,</hi> between the Failure of Expe<g ref="char:EOLhyphen"/>ctation in 97; With what is to be Expected in 97 Ending, and 98 Beginning.</p>
+            <p n="1">1. As to the firſt Head, I muſt Humbly and Freely Acknowledge, we do not yet behold the mighty effects of the <hi>Spirit of Life</hi> from God, upon the <hi>Witneſ<g ref="char:EOLhyphen"/>ſes</hi> in their ſufferings under <hi>Anti-chriſtian</hi> Powers; or the Univerſality of the Witneſſes of Chriſt out of their <hi>Sackcloth-ſtate,</hi> and <hi>Mournful Prophecy</hi> of the <hi>Kingdom of Chriſt</hi> in delay, and not yet being in its Illuſtrious Appearance: They have yet the <hi>Seale</hi> of Concealment on their <hi>Foreheads,</hi> and do not yet ſtand on <hi>Mount Zion</hi> with the <hi>Lamb, having his Fathers Name</hi> Conſpicuouſly written on thoſe very <hi>Foreheads,</hi> where the <hi>Seal</hi> was before. That is, there is not yet that <hi>Pouring out of the Spirit;</hi> They are not yet publickly juſtified, as the <hi>Witneſſes</hi> of Chriſt along the 1260 Years.</p>
+            <p n="2">2. <hi>That the Stone cut out of the Mountains, that is not in Humane Hands;</hi> That is; That doth his Great Works immediately by himſelf, in breaking the <hi>Image</hi> of the <hi>Four Monarchyes</hi> in the laſt of them, and himſelf <hi>becoming a Great Mountain filling the whole Earth,</hi> hath not yet thus appear'd; muſt alſo be confeſſed.</p>
+            <p n="3">3. That therefore the <hi>Antichriſtian,</hi> and the <hi>Mahometan</hi> State joyn'd with it, tho as a woe upon it, are not ſo broken yet, as that the <hi>Kingdoms of this World</hi> ſhould by the <hi>Ten Kings</hi> being <hi>overcome</hi> by the <hi>Lamb,</hi> be Proclaimed to be <hi>become</hi> the <hi>Kingdoms of the Lord,</hi> and of his <hi>Chriſt,</hi> and He himſelf Univerſally Ac<g ref="char:EOLhyphen"/>knowledged <hi>King of Kings, and Lord of Lords, and his witneſſes with Him, Called, Choſen, Faithful,</hi> and known to be ſo. All which I had Hoped and Expected, ſhould have come to paſs in this Year 97: and in the <hi>Prophetical Hour, Viz.</hi> In the latter part of the Month <hi>Auguſt:</hi> Herein therefore and thus far, I moſt willingly and humbly Acknowledge my <hi>Fault</hi> and <hi>Miſtake:</hi> I come therefore to the Second Head, and that is to obſerve, how far God hath been pleaſed to own his unworthyeſt Servant this Year, and in the very time of the Year, in the Interpretation of <hi>Prophecy.</hi>
+            </p>
+            <pb n="3" facs="tcp:105104:6"/>
+            <p>And there are two Things, which I would Remark upon, as very Eminent <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſpoſes of Providence, wherein by <hi>Regarding the Operations of the Lord,</hi> and <hi>Searching</hi> out the more hidden Things in the Works of his Hand, as thoſe who <hi>Take Pleaſure therein;</hi> We may find a very wonderful agreement of Providence, with <hi>Prophecy</hi> in this very Year, and at that Noted time of the Year.</p>
+            <p n="1">1. The Firſt is, That ſo Illuſtrious Providential Revolution, of ſetting Peace in ſo many of the <hi>Kingdoms</hi> (into which the <hi>Weſtern Roman Empire</hi> hath ſtood ſo long divided) after ſo long a War.</p>
+            <p n="2">2. The ſtrokes by the ſupreme ordination of Divine Government in the World, by the Hand of the <hi>Prince of Maſcovy,</hi> as a Prince of the <hi>Chriſtian Pro<g ref="char:EOLhyphen"/>feſſion</hi> (according to thoſe we Call) <hi>the Grecian Churches;</hi> and by the Hand of the <hi>Imperial Power,</hi> that ſubmits its ſelf to the <hi>Roman Church</hi> (as it is alſo cal<g ref="char:EOLhyphen"/>led) and its <hi>Papacy</hi> upon the <hi>Turkiſh</hi> Empire.</p>
+            <p>And on each of theſe I would make their Particular, and Peculiar Remarks, and Firſt on the Firſt.</p>
+            <p>
+               <hi>Rem.</hi> 1. The ſettling Peace in the <hi>Borders</hi> of any Nation, and of Nations together, after many Evils, and Haraſſings of War is a Great Mercy and Goodneſs of God to thoſe Nations, wherever It is diſ<g ref="char:EOLhyphen"/>play'd. This is very eaſily Intelligible, and as eaſily Acknowledged by the Rejoycings, and Hopeful Expectations from the preſent Peace, and the Tri<g ref="char:EOLhyphen"/>umphs wherewith it is Receiv'd: And War is Accounted one of the <hi>Four Great Judgments</hi> of God in the World.</p>
+            <p>If we then conſider, what an unreformed Nation we our ſelves are, and how unreformed the Nations about us are; It is not according to the uſual Method of Providence to Remove Judgments without much Greater Effects of Ruine, or Reformation; What then can we think, but that God bears with Patience the Great Provocations of the Nations of <hi>Europe?</hi> Becauſe they are Kingdoms, that Peculiarly belong to the <hi>Kingdom of Chriſt;</hi> For the <hi>Lamb</hi> ſhall <hi>overcome the Ten Kings,</hi> into a Voluntary ſubjection to his<note place="margin">Rev. 17. 14, 16.</note> 
+               <hi>Kingdom;</hi> Which appears in that, They ſhall <hi>Hate the Whore, and burn her Fleſh with Fire.</hi> I cannot but hope therefore, God ſpares them from Ruining one another, becauſe he reſerves them for that Time. Thus, becauſe he would make the <hi>Iſraelites a Type of the Kingdom of Chriſt;</hi> Altho even at the Time of their deliverance from <hi>Egypt, They Lifted up their Eyes to the Idols of Egypt, and God lifted up his Hand to Deſtroy them, yet he wrought for his Name ſake, and did not Deſtroy them;</hi> And ſo I hope he does now.</p>
+            <p>
+               <hi>Rem.</hi> 2. It is certain according to <hi>Prophecy,</hi> Peace is a Great Signal<note place="margin">Ezek. 20. 9, 10.</note> of the <hi>Kingdom of Chriſt.</hi> And ſuch a Time there ſhall be, <hi>When Na<g ref="char:EOLhyphen"/>tions ſhall beat their Spears into Pruning Hooks, and their Swords in<g ref="char:EOLhyphen"/>to</hi>
+               <note place="margin">Eſa. 2. Mic. 4.</note> 
+               <hi>Ploughſhares; Nation ſhall not Lift up Sword againſt Nation, Nor ſhall they Learn War any more; They ſhall ſit every Man un<g ref="char:EOLhyphen"/>der his own Vine and Figtree;</hi> Jeſus Chriſt is the <hi>Prince of Peace, ſhall be no End<g ref="char:punc">▪</g>
+               </hi> and of the <hi>Increaſe of his Peace,</hi> even as <hi>of his Government there</hi> God will do that Aſtoniſhing Thing in the World; <hi>He will</hi>
+               <note place="margin">Pſal. 46. 8.</note> 
+               <hi>make Wars to ceaſe to the Ends of the Earth; He will break the Bow
+<pb n="4" facs="tcp:105104:7"/> and Cut the Spear in ſunder, and burn the Chariots in the Fire;</hi> All the Inſtruments of Cruelty ſhall, as by Gods own Hand be brought to an utter End; He will Still All by his own Appearance, as God, when He in favour of his own People will be <hi>Exalted in the Earth;</hi> when He is with his People, as in that City, whoſe Name is <hi>Jehovah Shammah, The Lord is there.</hi>
+            </p>
+            <p>
+               <hi>Obr.</hi> I know it will be ſaid, There have been many times Treaties of Peace, and that have been Conſummated in an effective Peace, and yet no <hi>Kingdom of Chriſt</hi> hath ſucceeded; what Argument then can it be of ſuch a Kingdom now, That there is ſuch a Peace?</p>
+            <p>
+               <hi>Anſw.</hi> 1. Yet every Peace is an <hi>Olive Branch,</hi> and a memorial of that <hi>King<g ref="char:EOLhyphen"/>dom of Peace;</hi> Even as every Judgment is an aſſurance of the <hi>Laſt Judgment;</hi> and every War a Fore-runner of the Great <hi>Battel at Armageddon,</hi> That ſhall bring All <hi>Enemies under the Feet of Chriſt,</hi> and his Saints.</p>
+            <p>
+               <hi>Anſw.</hi> 2. The certain Argument of ſuch a ſucceeding <hi>Kingdom of Chriſt</hi> does not Lye Singly in a Peace, but in a Pea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e at ſuch a Time, when by the <hi>Line of Time,</hi> the Kingdom of Chriſt is ſo juſtly to be Expected; and ſo <hi>the Line of Time,</hi> and the Peace do mutually ſtrengthen, and aſſure one another; In the wiſdom of Divine Government of the World, There was an Univerſal Peace under <hi>Auguſtus,</hi> at the Time of that Firſt <hi>Specimen</hi> of the <hi>Kingdom of Chriſt,</hi> His coming <hi>in the Fleſh:</hi> It was not by it ſelf a direct Argument of his coming at that Time; But the <hi>Fulneſs of Time</hi> for his <hi>Coming,</hi> and the Peace did mutu<g ref="char:EOLhyphen"/>ally Corroborate one another, and give the Expectation of the <hi>Meſſiah</hi> then to appear: And ſo I hope, it will appear at this Time; As ſome Years ago, In the <hi>Light</hi> of <hi>Prophecy,</hi> I predicted; The End of this War, whether by breaking the <hi>French</hi> or by Peace, would be ſpeedily followed by the opening of the <hi>Kingdom of Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Rem.</hi> 3. This Providential Revolution of the <hi>Peace,</hi> hath given a ſtop to the <hi>French</hi> Kings Aſpirings to <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Monarchy;</hi> Which as (moſt contrary to the Bo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds and Meaſures Aſſigned Him by <hi>Prophecy,</hi> To be but one of <hi>Ten Kings</hi> and not the whole <hi>Ten,</hi> a part of the <hi>Iron</hi> and not the whole <hi>Iron;</hi> I have always with greateſt confidence, in the very height of the War aſſerte<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; He could never obtain; But He would find the ſame Diſappointment, the <hi>Houſe</hi> or <hi>Auſtria</hi> found in <hi>Charl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ifth,</hi> Retreating into Solitude after the attempt; and in His Son <hi>Philip of Spain,</hi> from that defeat of the <hi>Armada</hi> 88 Sinking lower and lower to this Day.</p>
+            <p>Now in and by this Peace, an Eminent Hand of God hath caus'd that Haugh<g ref="char:EOLhyphen"/>ty <hi>Monarch</hi> to Acknowledge; That he had <hi>Coveted an Evil Coveteouſneſs,</hi> and <hi>Increaſed</hi> That, which was not His; and therefore, tho He hath not been ſpoiled by the Force of War, or the Prevalency of Victory; Yet He is made to find; He hath in <hi>Aſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iring to ſet his Neſt ſo High,</hi> and to ſtabliſh an <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Monarchy by Blood, Laboured in the very Fire, and wearied himſelf for very Vanity;</hi> And oh, That that which follows in <hi>Prophecy,</hi> might now ſpeedily follow in Time, brought to paſs by the immediate Hand and Power of God; <hi>That the Knowledge of the Glory of the Lord might cover the Earth, as the Waters cover the Sea:</hi> And then, <hi>All that is within his</hi> Poor Ser<g ref="char:EOLhyphen"/>vants,<note place="margin">Hab. 2. 14.</note> ſhould <hi>Bleſs his Holy Name:</hi> But it is not very Remark<g ref="char:EOLhyphen"/>able,
+<pb n="5" facs="tcp:105104:7"/> that that Prince, who hath Arrogated to Himſelf in the common Lan<g ref="char:EOLhyphen"/>guage of his People; <hi>Our Monarch;</hi> as Preparatory to the Style of <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Monarch;</hi> ſhould ſo quietly Reſign and Give up his pretenſions; and I make no doubt, however Inſenſibly to himſelf and others, through the ſecret Force and Conſtitution of <hi>Prophecy;</hi> That the <hi>Western Roman Empire, that was under one Caeſar</hi> as ſupreme, till It ceas'd in <hi>Auguſtulus;</hi> and then was to be Variegated in<g ref="char:EOLhyphen"/>to <hi>Ten Kingdoms</hi> as <hi>Ten Toes</hi> under One <hi>Papal Head,</hi> or <hi>Supremacy</hi> in an <hi>Image,</hi> as <hi>Prophecy ſtyles it moſt Prophetically,</hi> (which it alſo ſtyles the <hi>Beaſt</hi>) might ſo be, till his <hi>Time, Times and Haſt a Time</hi> ſhall be Accompliſhed; When thoſe very <hi>Ten Kings,</hi> who gave their <hi>Kingdom</hi> to him, ſhall together as <hi>Ten,</hi> Recall it, and hate the <hi>Whore;</hi> As therefore <hi>Prophecy</hi> hath been in this Peace juſt to its word, They ſhall be <hi>Ten</hi> till then; So I doubt not, It will be true in their ſpeedy ſubjection to the <hi>King of Kings,</hi> and <hi>Lord of Lords,</hi> whoſe Right Alone, It is, to be the truely <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Monarch;</hi> And this ſhall be, when the <hi>Ten Kings</hi> ſhall be thus <hi>overcome;</hi> It is therefore ſo ſignally ſet at that Time, and on that <hi>overcoming;</hi> He is <hi>King of Kings,</hi> and <hi>Lord of Lords.</hi>
+            </p>
+            <p>And it is much the more Remarkable, That the Great Lord, who hath Times, even as the Hearts of Men and Princes, in his own Hand, ſhould order this Peace in the Year 1697. In which ending, I am bold yet to declare; The <hi>Times</hi> and <hi>Half</hi> Determin'd to the <hi>Papacy,</hi> Expire; So that this Year muſt be the Ending of <hi>Half Time;</hi> As then at the Beginning of <hi>Half Time,</hi> In the Wiſe and Holy diſpoſe of God; There was by the <hi>Emperor Charles</hi> V. being <hi>King of Spain,</hi> and Choſen <hi>Emperor</hi> of <hi>Germany</hi> 1519. an offer made at <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Monarchy,</hi> and was ſo Repreſſed, as hath been ſpoken, for the making Good of <hi>Prophecy;</hi> ſo in the lat<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er End of <hi>Half Time,</hi> He hath permitted the ſame Attempt by the <hi>French King</hi> for ſome Yea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s paſt, and having wearied it all along by the oppoſition raiſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to it by the Confederacy, upon the very end of <hi>Half Time,</hi> this very 97, He hath by the Peace given this Boundary to it; That he may ſhew, He <hi>magnifies his Word,</hi> (and particularly of <hi>Prophecy) above All his Name;</hi>
+            </p>
+            <p>
+               <hi>Rem.</hi> 4. It deſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rves juſt Reflection, That the Time of Negotiating, and Tranſacting this Peace, muſt in the neareſt and moſt Concluſive Treaties of it, have run through the <hi>Prophetick Hour<g ref="char:punc">▪</g> Viz.</hi> From <hi>Auguſt</hi> 15th to the end of that Month, and ſo into the following Month; So the publick owning and ſigning of it, was on the very 10th of the Seventh Month, the Day of the Ancient <hi>Attonement</hi> and <hi>Jubilee;</hi> and that therein God hath in ſome meaſure pleaſed to own the Reference of his unworthyeſt Servant to that very Time; Oh, that it might be an earneſt of the <hi>Acceptable Year of the Lord,</hi> as of the <hi>Ju<g ref="char:EOLhyphen"/>bilee</hi> of his <hi>Kingdom</hi> Approaching, though, as yet I muſt Acknowledge, much below my Hopes and Expectations; I cannot yet but add; The <hi>Proclamati<g ref="char:EOLhyphen"/>ons</hi> of <hi>Peace</hi> in <hi>England</hi> and <hi>France,</hi> in this Month of <hi>October,</hi> Anſwer in Time in this laſt Year of <hi>Half Time,</hi> to Gods Gracious Impulſe upon the Spirit of <hi>Luther,</hi> to Proclaim an open <hi>Evangelic</hi> War on <hi>Antichriſtian Rome,</hi> in the ſame Month of the Firſt Year of <hi>Half Time, Viz.</hi> 1517. And thoſe, who Joyned to herein with him, were Called <hi>Evangelici,</hi> as in Alluſion to the Word us'd in <hi>Prophecy,</hi> for the <hi>Finiſhing the myſtery God</hi> had<note place="margin">Rev. 10. 7.</note>
+               <pb n="6" facs="tcp:105104:8"/> 
+               <hi>Evangelized his Servants the Prophets in,</hi> or made them <hi>Evangelics</hi> concerning, which gives great Ground of Hope, there ſhall be ſome Highly <hi>Evangelical</hi> Product of this <hi>Peace,</hi> and defyance of <hi>Antichriſtianiſm</hi> by it; Oh! Let us Humbly wait and pray for it.</p>
+            <p>
+               <hi>Rem.</hi> 5. It is very Greatly to be remarked, that God was pleas'd in the Laſt 1688. To have made an Extraordinary (Univerſally Acknowledged to be ſo) <hi>Revolution</hi> in theſe Proteſtant Nations, of <hi>England, Scotland,</hi> and <hi>Ireland</hi> in Bar of <hi>Popery</hi> (endeavouring to return upon them) and Univerſal Monarchy; That hath been owned, confederated, and allyed with by ſome of the Greateſt Princes, that yet <hi>Give their Kingdom to the Beaſt;</hi> and hath been diſputed by the <hi>French King,</hi> from the very Entrance of it, and in continuation, till this <hi>Peace;</hi> And with whom the <hi>Abdicated King,</hi> the Late King <hi>James</hi> hath had his Reſi<g ref="char:EOLhyphen"/>dence ever ſince; Now that God hath been pleaſed to own the <hi>Proteſtant Prince,</hi> this <hi>Revolution</hi> brought in; to ſuſtain him, and theſe Nations in ſo Long and Expenſive a War, in the midſt of many great Loſſes by <hi>Sea,</hi> in a mutual ſatis<g ref="char:EOLhyphen"/>faction, and confidence one in another; That he hath preſerved him in ſo many Hazardous Paſſings, and Repaſſings the <hi>Sea,</hi> in ſo many Approaches of Dan<g ref="char:EOLhyphen"/>ger, and Jeopardyes of Life (as Scripture ſpeaks) in the <hi>High Places of the Field,</hi> where his perſon was ſo conſtantly Adventur'd; That he hath been ſo ſe<g ref="char:EOLhyphen"/>cur'd from Private Conſpiracys, and Aſſaſſinations; and now ſo Highly Ag<g ref="char:EOLhyphen"/>niz'd, ſo Publickly, ſo Solemnly and Auguſtly by the very <hi>French King,</hi> who made it his Glory to diſown Him; and is Returned this very Year of 97. Safe with Publick Tryumphs and Rejoycings in the Peace, equal to the Try<g ref="char:EOLhyphen"/>umphs of a Victory, how Glorious ſoever; Oh, how many Grand Agreements hath all this with <hi>Prophecy!</hi> The attempts of Refunding <hi>Popery</hi> into theſe Na<g ref="char:EOLhyphen"/>tions, hath been a Deſign, as Ancient among the <hi>Depths of Satan,</hi> the <hi>Arca<g ref="char:EOLhyphen"/>na Imperii,</hi> or Counſels of <hi>Antichriſtianiſm,</hi> as the ſettlement of the <hi>Reformation</hi> here, and by all Imaginable Artifices of Policy and Power; And it ſeem'd the very <hi>Criſis</hi> for it in that laſt Reign; That the moſt High decided againſt it with ſo High a Hand, was very Glorious; That God hath given ſo Great Ad<g ref="char:EOLhyphen"/>vantages in Appearance for the Return of King <hi>James</hi> by ſuch a War, ſo Te<g ref="char:EOLhyphen"/>dious, ſo Burdenſome, in ſuch an abſence of the <hi>King;</hi> And that the whole ſhould be thus reſolv'd into ſo very an <hi>Auguſt</hi> Acknowledgment by the Grand oppoſer of Him; and that the Intereſt of the ſame King <hi>James</hi> ſhould be, as it were huſh'd into ſuch a ſilence, and neglect, as now appears, and by his very ſo Great Allie, is a very Exalted Hand of <hi>Jehovah,</hi> for the Juſtification of the Reformation in theſe Nations; And that it ſhould be reſerv'd for this Year 97. Is an Honourable Character fixed upon this Year (as I hope) Immediately pre<g ref="char:EOLhyphen"/>ceeding the entrance of the <hi>Kingdom of Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Rem.</hi> 6. That the War hath been Carryed on by ſuch a Ballance of Equality, that, except we conſider that Great Intention of Providence, to conſine within his own Figure Allowed by <hi>Prophecy,</hi> the <hi>French King,</hi> (in which It Confederated ſo many Princes and States, however differing among Themſelves) and the ſecu<g ref="char:EOLhyphen"/>ring <hi>Proteſtancy</hi> to theſe Nations; Except I ſay, we conſider this; All hath been <hi>Labouring in the very Fire, and wearying the Nations for very Vanity;</hi>
+               <pb n="7" facs="tcp:105104:8"/> And yet God hath, as by an Immediate Hand of his own, Determined All in<g ref="char:EOLhyphen"/>to Peace; This is, I have Great Truſt; Becauſe the next Thing he will do, ſhall be, to <hi>Fill the Earth with the Knowledge of his Glory, as the Waters cover the Sea.</hi>
+            </p>
+            <p>
+               <hi>Rem.</hi> 7. I ſhould Rejoyce to find this Peace Propagating an Univerſal <hi>Refor<g ref="char:EOLhyphen"/>mation</hi> of the open prophaneſſes, and wickedneſſes of the Nations; Which the <hi>Societyes for Reformation</hi> in this City give ſome Hopeful Appearances of; and it is much to be deſired, The Power of the Magiſtrate would with it's own Au<g ref="char:EOLhyphen"/>thority and Influence, Encourage ſuch Honourable undertakings: And if it be not ſo, as I doubt not It will, a Greater Magiſtracy will <hi>Take the matter into its own Hand:</hi> But the very Motions however unformed, or Abortive they would, or might prove of Themſelves, are ſome Preliminary Motions to that Great <hi>Reformation, the Kingdom of Chriſt</hi> will bring in, when to the <hi>People ſhall be turned a Pure Language; And Men ſhall Fear the Lord, from the Riſing of the Sun to the going down of the ſame.</hi>
+            </p>
+            <p>
+               <hi>Rem.</hi> 8. It is Greatly to be Lamented, if the ſuffering <hi>Witneſſes of Chriſt,</hi> in any parts Comprehended within this Peace, have found no place of conſiderati<g ref="char:EOLhyphen"/>on in it and Relaxation by it; But if they have not, I am the more Aſſured; It is reſerv'd for the Immediate Hand of the <hi>King of Kings,</hi> and <hi>Lord of Lords, overcoming the Ten Kings,</hi> and moving them, as by an Impulſe from himſelf with the <hi>Hatred of the Whore;</hi> and He will ſhew his Servants, as a <hi>Light Ariſing</hi> in the darkneſs of their ſufferings yet continuing, the <hi>Morning Star</hi> in the firſt Dawns of his <hi>Kingdom;</hi> Till it ſhall come to the <hi>Bright Morning Star</hi> of his own Glorious Appearance in that <hi>Kingdom</hi> at the Higheſt Elevation of it.</p>
+            <p>
+               <hi>Rem.</hi> 9. It is in the next Place of a moſt Hopeful Reflection to me, That this Peace Falls, as a Blow upon the League between the <hi>French King,</hi> and the <hi>Turkiſh Sultan,</hi> ſo as to diſſolve it; For as I have heretofore argued, ſo I ſhall now more Fully, and yet very Breifly Repreſent it: The true Account of the <hi>Viſi<g ref="char:EOLhyphen"/>onal</hi> order of <hi>Breaking the Image, Dan.</hi> 2. Is, That the <hi>Stone ſmote the Image on its Feet of Iron and Clay</hi> Firſt, and ſo the whole was broken: This is moſt Preciſely and Definitively ſet down, <hi>v. 34. The Stone Cut out, which is not in Hands, ſmote the Image upon his Feet, which were of Iron and Clay, and Brake Them to Peices:</hi> And again, <hi>v. 35. Then was the Iron and the Clay</hi> Firſt) and All the <hi>Image Broken, ſo, that it became as the Chaff of the Summer-Threſhing Floor:</hi> This therefore from compare of one part of this <hi>Prophetick Viſion</hi> with another, and with the New Teſtament <hi>Prophecy</hi> of the <hi>Revelation,</hi> muſt be the Order The Firſt part of the <hi>Image</hi> ſmitten is the <hi>Iron Feet</hi> of the <hi>Ten Kings</hi>
+               <note place="margin">Rev. 17.</note> 
+               <hi>overcome by the Lamb, and the Called, Faithful, Choſen Witneſſes with Him;</hi> Then theſe <hi>Ten Kings,</hi> who had with one <hi>Conſent given their Kingdom and Power to the Beaſt, ſerve the Lamb by hating the Whore, and burning her Fleſh with Fire;</hi> This ſhaking, as an <hi>Earthquake,</hi> the <hi>Great City,</hi> and its <hi>Decemprincipality,</hi> or Tenfold Principality Ariſing from the <hi>Ten Kings, ſo giving their Power to the Beaſt, that Carryed Her, Falls.</hi> Thus the <hi>Clay is Broken</hi> by the Firſt Approach of the <hi>Kingdom of Chriſt,</hi> weilding the <hi>Iron,</hi> or the Ten Kings to his ſervice: But then All is <hi>Threſhed and Broken,</hi> as into <hi>Chaff,</hi> by the <hi>ſtone Becoming a Moun<g ref="char:EOLhyphen"/>tain
+<pb n="8" facs="tcp:105104:9"/> fuling the whole Earth;</hi> So there remains no Power but Chriſt's, and his Saints with him, to whom the <hi>Dominion under the whole Heaven is given.</hi>
+            </p>
+            <p>But now, <hi>v. 45. The Stone cut out of the Mountains without hands, brake in peices</hi> firſt <hi>the Iron,</hi> then nor <hi>the Clay,</hi> but <hi>the Braſs.</hi> The True Order of the Final Stroke was ſet down before, which could not be changed; what therefore is given, <hi>v.</hi> 45. muſt be ſome previous and preparatory ſtroke, that Falls upon the Iron and the Braſs in a Conjunction; and the Greatneſs, that Each<g ref="char:punc">▪</g> had by that Conjunction, comes to nothing: And by that change of the Order, this Previous Stroke is ſhaded under the Full and Final Breaking of the whole, and ſilently intimated by it. By the <hi>Iron</hi> I underſtand the <hi>French</hi> Power, in this Great Spread of it ſelf againſt ſo many of the <hi>Ten Kingdoms confederated,</hi> as it hath been of late years, and its Aſpirings to be the whole <hi>Iron</hi> it ſelf; that is, to <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Monarchy.</hi>
+            </p>
+            <p>And this I look upon to be noted by the <hi>Iron</hi> in this place of <hi>Daniel;</hi> By the <hi>Braſs</hi> I Apprehend the <hi>Grecian</hi> Power, as now in the Hand of the <hi>Turk;</hi> whoſe <hi>Port</hi> is the <hi>Grecian Conſtantinople:</hi> Now then this is a <hi>private Proph<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tical</hi> Watch-word of the very Time, when the whole <hi>Image</hi> ſhall be Broken; It ſhall be, when that Unnatural Conjunction between Him, who would be the whole <hi>Iron</hi> of the <hi>Feet,</hi> and who will be called the <hi>moſt Chriſtian King,</hi> and the now <hi>Belly of Braſs,</hi> the <hi>Turkiſh Power,</hi> the Profeſſed Enemy of Chri<g ref="char:EOLhyphen"/>ſtians, ſhall be Broken by the <hi>Stone,</hi> cut out of the Mountains, in his Su<g ref="char:EOLhyphen"/>preme Providence, and come to nothing: Now this Conjunction we ſee thus brought to nothing by this <hi>Peace;</hi> the <hi>French King</hi> not able to bear up his Former retenſions by the Loſs of <hi>Turkiſh Aids;</hi> nor the <hi>Turk</hi> againſt the <hi>Emperor,</hi> by the Loſs of <hi>French</hi> Aſſiſtances. And in this very 97. why then ſhould we not look for the whole <hi>Image</hi> to be ſoon after Broken in its own Juſt Order now Firſt given? And the Strokes upon the <hi>Turk</hi> in the very Time of the Treaty are Juſtly to be looked upon as the Proclaiming his <hi>Coming to an End,</hi> and <hi>None to help Him:</hi> Now if this be a True Interpretati<g ref="char:EOLhyphen"/>on of this <hi>Prophetic Viſion,</hi> (and I do not ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e what can be objected to it) what a Great Aſſurance is it, That in this 97. the Great Change that this <hi>
+                  <g ref="char:V">Ʋ</g>iſion</hi> foretells muſt needs be very near to come into effect; and who can once imagine, that ſo Divine a <hi>Viſion,</hi> ſo exactly in every Thing framed, could by Chance, and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot without ſome Great Deſign, and Purpoſe, Tran<g ref="char:EOLhyphen"/>ſpoſe the <hi>Iron</hi> from the <hi>Feet of Iron</hi> and <hi>Clay,</hi> to the <hi>Belly and Thighs of Braſs,</hi> and place the <hi>Clay</hi> of the <hi>Feet</hi> between the <hi>Braſs</hi> of the <hi>Belly,</hi> and the <hi>Silver</hi> of the <hi>Breast.</hi> And I cannot but demand, what Fairer Expoſition, or Interpretation of Providenttal Event, could be given to ſuch a <hi>Prophecy?</hi> Now I muſt be bold to ſay, <hi>Whoſo hath Wiſdom,</hi> let him conſider it; <hi>The Wiſe ſhall underſtand,</hi> but the Prejudiced and the Careleſs <hi>will not understand.</hi>
+            </p>
+            <p>
+               <hi>Rem.</hi> 10. All this is much the more Remarkable in that Prince, who hath been the ſevere Enemy, and the open Perſecutor of the <hi>Reformation,</hi> and yet continues ſo; and therefore i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Kingdom of Chriſt be ſo near, as theſe Com<g ref="char:EOLhyphen"/>pares of <hi>Prophecy</hi> give hopes; he muſt either be Removed ſuddenly by a ſtroke of Judgment, or by ſo eminent a Converſion, as Perſecuting <hi>Paul</hi> was an
+<pb n="9" facs="tcp:105104:9"/> 
+               <hi>Hypotypoſis,</hi> or Pattern of; For he hath Raged even to <hi>Madneſs</hi> againſt the <hi>Re<g ref="char:EOLhyphen"/>formation,</hi> and been <hi>Breathing out Threatnings</hi> againſt the <hi>Witneſſes of it,</hi> and ſo continues; And yet his <hi>Kingdom</hi> is one of the <hi>Te<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> whoſe <hi>Kings</hi> ſhall be <hi>o<g ref="char:EOLhyphen"/>vercome by the Lamb, and Hate the Whore.</hi> He muſt then either be a Great Inſtance of Converting Grace, as it were from Heaven, (or of Judgment)<g ref="char:punc">▪</g> and ſeeing <hi>the God of All Grace</hi> is moſt Glorious in the Former, and the Fruit of it might be much Greater in the World; I look upon it as our Duty, to pray for it, and deſire it, if I may not ſay, to hope for it; That God, who hath bowed his Heart ſo far in the Acknowledgment of a <hi>Proteſtant Ki<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g,</hi> ſo ſet up by himſelf, may pleaſe alſo to Bow his Soul to the <hi>Proteſtant Religion,</hi> and to a Zeal for it anſwerable to his former Perſecutions, and to this very day.</p>
+            <p>Now thus far I have Remrak'd upon the Firſt of the Providential Events of this Year, as it is preparatory to the Kingdom of Chriſt, according to the <hi>Interpretation of Prophecy,</hi> That <hi>Prophecyings may not be deſpiſed,</hi> but All awak<g ref="char:EOLhyphen"/>en'd Earneſtly to Pray, and wait for that <hi>Kingdom;</hi> ſeeing there is ſo much to be obſerv'd in this Providential Revolution of the <hi>Peace,</hi> as to be a <hi>Door of hope,</hi> and a <hi>Day of ſmall Things;</hi> and that in this very Year of 1697. And I dare not Aſſume it to be more, I humbly confeſs, as yet; As in the Following Obſervations upon the Great Strokes on the <hi>Turkiſh Potentacy,</hi> I ſhall further Acknowledge.</p>
+            <p>I come now to the Second Grand Providential Event of this Year 1697. The ſevere Strokes, The Great Governour of the World, and <hi>Lord of Hoſts,</hi> hath cauſed by the Arms of the <hi>Czar of Muſcovy,</hi> and of the <hi>Emperor of Ger<g ref="char:EOLhyphen"/>many,</hi> to fall upon the <hi>Mahometan <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ttoman Signiory;</hi> and to adjuſt them by <hi>Pro<g ref="char:EOLhyphen"/>phecy</hi> to the near Approach of the Kingdom of Chriſt.</p>
+            <p>That I may preſent this in the Cleareſt and moſt Compendious Table, I ſhall Firſt conſider <hi>Mahometaniſm in the General,</hi> as <hi>common</hi> to the <hi>Saracens and Turks;</hi> and then peculiarly, as it is now ſeated in the <hi>Ottoman Turkiſh Emp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> and each in ſeveral ſhort Notes of Obſervation; and Argue from them the Great Hopes, that theſe Strokes upon that <hi>Mahometan Impoſture and Tyranny,</hi> are Fore-Runners of the Final Diſſolution of it, and of the <hi>Kingdom of Chriſt,</hi> ſucceeding.</p>
+            <p n="1">1. The very Eſſential State of this <hi>Impoſture</hi> and <hi>Tyranny,</hi> is deſign'd by God, as a <hi>Mock-Antichriſt</hi> to the Grand <hi>Roman Papal Antichriſt,</hi> a <hi>Paraſelene,</hi> or Counterfeit <hi>Moon</hi> to his <hi>Moon,</hi> even as <hi>Antichriſt</hi> is a <hi>mock-Chriſt,</hi> or in Deſpite to our True <hi>Lord Chriſt.</hi>
+            </p>
+            <p n="1">1. <hi>Mahomet</hi> acknowledges Chriſt a Great <hi>Prophet,</hi> even as <hi>Antichriſt</hi> does; but robs Him of the Glory of his Divinity, and of being the onely Su<g ref="char:EOLhyphen"/>preme, True <hi>Prophet,</hi> wherein He is an <hi>Antichriſt.</hi>
+            </p>
+            <p n="2">2. He Abhors Idols; Herein He mocks <hi>Antichriſtian Idolatry,</hi> but ſets up the <hi>Idol-Prophet, Mahomet;</hi> Therein He is an <hi>Antichriſt.</hi>
+            </p>
+            <p n="3">3. He pretends to an <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Kingdom;</hi> Herein He mocks the <hi>Papal An<g ref="char:EOLhyphen"/>tichriſt;</hi> One by the Spiritual, the other by the Temporal Sword, pretends to an <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Kingdom,</hi> but both undermine <hi>Chriſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Kingdom,</hi> and Both are <hi>Anti<g ref="char:EOLhyphen"/>chriſts</hi> therein.</p>
+            <pb n="10" facs="tcp:105104:10"/>
+            <p n="4">4. He offers a Fools <hi>Paradice,</hi> and Deliverance from Future Miſery, but as Counterfeit as the <hi>Popes</hi> Deliverance from Purgatory, by his <hi>Key of the Bottom<g ref="char:EOLhyphen"/>leſs Pit;</hi> Herein are they both <hi>Antichriſts,</hi> but <hi>Mahomet,</hi> as coming laſt, and upon the <hi>Papacy,</hi> is a <hi>Mock-Antichriſt,</hi> an <hi>Antichriſt</hi> in deſpite.</p>
+            <p n="5">5. He pretends ſome Reverence to ſome of the Sacred Writings, but hath brought in a Nonſenſic <hi>Alcoran,</hi> as vain as <hi>Papal Traditions,</hi> and <hi>Oral Laws.</hi>
+            </p>
+            <p n="2">2. The Time therefore of the Beginning of this <hi>Impoſture</hi> and <hi>Tyranny</hi> was ſoon after the <hi>Papal Supremacy,</hi> the one at 606. the other at 622. The one the <hi>Antichriſtian,</hi> the other the <hi>Mahometan Hegire,</hi> when its <hi>Tyranny</hi> came forth; while the one laſts, the other laſts alſo; when the one ends, the other ſhall end alſo: If therefore <hi>Antichriſtian</hi> Times determine in 97. <hi>Mahometan</hi> Times ſhall determine with them; why them may we not hope, this Blow on <hi>Mahometaniſm</hi> is an Alarm-Blow upon Both <hi>Antichriſts</hi> now ready to Expire?</p>
+            <p>I come now more particularly to conſider the <hi>Ottoman Turkiſh Power,</hi> and to Remark on that, as more preciſely before us in the Events of this Year; and ſo make theſe Remarks upon it.</p>
+            <p n="1">1. The <hi>Ottoman</hi> Power Appear'd in the Greateſt Extremity, and loweſt Condition of the <hi>Witneſſes</hi> after the Great Perſecution upon Thoſe we call the <hi>Vaudois;</hi> and the moſt cruel Slaughter of ſo many of Them: In Re<g ref="char:EOLhyphen"/>venge of which, God ſent the <hi>Ottoman</hi> Power, to Remonſtrate againſt the <hi>An<g ref="char:EOLhyphen"/>tichriſtian Salvageneſſes.</hi>
+            </p>
+            <p n="2">2. They were deſigned by God to Raiſe the <hi>Mahometan Impoſture</hi> and <hi>Tyranny,</hi> to the Imperial Throne of <hi>Eaſtern Rome,</hi> or <hi>Conſtantinople.</hi>
+               <note place="margin">C. 11. 45.</note> This is expreſſed by <hi>Daniel,</hi> as the <hi>planting the Tabernacle of his Pallace between the Seas, in the Glorious Holy Mountain,</hi> ſo Honourably ſtyled, becauſe it was the <hi>City of Conſtantinople,</hi> that Firſt <hi>Chriſtian Emperor,</hi> and Great Type of the <hi>Kingdom of Chriſt;</hi> This was in the Year 1453.</p>
+            <p n="3">3. The <hi>Ottoman Emperor, Selymus,</hi> in, or upon the Firſt Year of the Refor<g ref="char:EOLhyphen"/>mation, 1517. ſeized upon <hi>Judea</hi> and <hi>Jeruſalem,</hi> ſtyled by <hi>Daniel,</hi> Ch. 11. 41. the <hi>Glorious Land.</hi>
+            </p>
+            <p n="4">4 There is an Abſolute Determination of God; This <hi>Mahometan Otto<g ref="char:EOLhyphen"/>man Prince ſhall come to his End,</hi> C. 11. 45.</p>
+            <p>Seeing this is ſo determined, we have Reaſon to look upon this very Year as the Year of his Approaching end, on theſe Reaſons.</p>
+            <p n="1">1. The <hi>Mahometan Ottoman Emperor,</hi> Coming in as a Judgment upon <hi>Papal, Antichriſtian Cruelty,</hi> and Advanced to the Throne of the <hi>Eaſtern Roman Em<g ref="char:EOLhyphen"/>pire,</hi> That he might be a <hi>Mock Antichriſt</hi> to the Grand <hi>Antichriſt</hi> in the <hi>Weſt;</hi> He muſt in all the Reaſon and Senſe of <hi>Prophecy,</hi> be Limited to the Times of the Firſt <hi>Antichriſt;</hi> Becauſe, when the Sin is Removed, The Judgment ſhall be Re<g ref="char:EOLhyphen"/>moved alſo; And when the True <hi>Lord</hi> and <hi>Chriſt</hi> ſhall <hi>Conſume</hi> the Great <hi>Anti<g ref="char:EOLhyphen"/>chriſt</hi> by the <hi>Breath of his Mouth,</hi> He will Conſume All other <hi>Antichriſts</hi> with Him: If then the Times of the <hi>Papal Antichriſt,</hi> ſhall End in this 1697. The <hi>Mahometan</hi> ſhall End in it alſo.</p>
+            <pb facs="tcp:105104:10"/>
+            <p n="2">2. Accordingly we find; The Time Aſſigned to the <hi>Ottoman</hi> Power ſtanding prepared to obtain, and to hold in poſſeſſion that <hi>Roman Eaſtern Empire,</hi> will exactly agree from the Time of His Riſing with the End of <hi>Antichriſtian Times;</hi> For let us with the beſt and moſt of <hi>Chronologers,</hi> Date his Riſing to the Year 1300. And <hi>Prophecy</hi> Aſſigns to him for the obtaining, and holding the <hi>Grecian Empire</hi> under his Power, an Hour, a Day, a Month, a Year; Which by Fair <hi>Prophetical</hi> Computation make up 397 Years, and ſo muſt end 1697.</p>
+            <p n="3">3. The ſeizing on <hi>Jeruſalem</hi> juſt at the <hi>Reformation,</hi> when the laſt 180 Years, or <hi>Half Time of Antichriſtianiſm</hi> entered, is a very Hopeful Argument to me, That this <hi>Ottoman</hi> Term of Power is this Year to End; For there is a Con<g ref="char:EOLhyphen"/>currence of Three Great Periods, according to that very ſeizure of <hi>Jeruſalem</hi> by the <hi>Ottoman</hi> Power in the Year 1517. Which Fall on this very Year 1697.</p>
+            <p>The Period of the <hi>Antichriſtian</hi> Times, in the laſt <hi>Half Time</hi> being Remar<g ref="char:EOLhyphen"/>ked as by the <hi>Reformation,</hi> ſo by the Particular ſtroke of God on the <hi>Papal An<g ref="char:EOLhyphen"/>tichriſt,</hi> in the ſeizure of ſuch a Place, to which ſo High a Devotion is preten<g ref="char:EOLhyphen"/>ded by the Grand <hi>Antichriſt</hi> into the Hand of the <hi>Mock Antichriſt,</hi> and who Himſelf, to ſhew Himſelf a <hi>Mock-Antichriſt,</hi> made the ſame pretence of Devo<g ref="char:EOLhyphen"/>tion to, and at it; As Hiſtory Reports of <hi>Selymus,</hi> that <hi>Turkiſh Saltan<g ref="char:punc">▪</g>
+               </hi> who ſeized it: And it is worthy obſervation, That the Enlargement of the <hi>Ottoman Empire</hi> at that Time, and in thoſe Parts, and Particularly on the <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oly City</hi> and <hi>Land,</hi> Gave the Fair and Plauſible pretenſion to the <hi>Papal</hi> Raiſing Money by <hi>Indulgences</hi> to withſtand and reſiſt it; Which odious Cheat of <hi>Indulgences</hi> gave the Great Advantage to the <hi>Reformation,</hi> as is well known; And it gives much Encouragement to Hope; So Eminent a Conſiguration againſt <hi>Antichriſtianiſm,</hi> as of the taking <hi>Jeruſalem,</hi> and the <hi>Reformation,</hi> and the latter ſo Derived from the <hi>Former,</hi> upon the Year 1517. Gives it an undoubted Title to be the Begin<g ref="char:EOLhyphen"/>ning of <hi>Half Time,</hi> or the Laſt 180 Years of <hi>Antichriſtianiſm,</hi> and ſo to be at an End this 1697.</p>
+            <p n="2">2. The Period of the <hi>Jewiſh Captivity,</hi> and <hi>Jeruſalems</hi> being <hi>Trodden under Foot of All Nations;</hi> For ſeeing thoſe Times upon <hi>Judea</hi> and <hi>Jeruſalem,</hi> are Bounded by the <hi>Gentiles Times Fulfilled,</hi> and that the Time of the <hi>Antichriſtian Apoſtacy,</hi> are peculiarly by <hi>Prophecy</hi> Branded, as <hi>Gentiles Times of Treading un<g ref="char:EOLhyphen"/>der Foot the Holy City:</hi> If the <hi>Antichriſtian Half Time</hi> (which is its laſt) Began 1517, and Ends 1697. Conſequently the laſt 180 Years of <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ewiſh Captivity,</hi> and <hi>Conculcating,</hi> or Trampling under foot-Times muſt end, and Conſequentially alſo, <hi>Mahometan</hi> Times, that hold <hi>Jeruſalem</hi> and <hi>Judea</hi> under that Conculcation, muſt end at the ſame time too.</p>
+            <p n="3">3. The Period of <hi>Mahometan</hi> Times Themſelves, muſt be found in this very 1697. For then the Time of <hi>Turkiſh planting the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abernacl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of his Palace, in the Glo<g ref="char:EOLhyphen"/>rious Holy Mountain, Ceaſes;</hi> And <hi>Conſtantinople</hi> ſhall Return to its Former Glory under <hi>Conſtantine,</hi> and be a Grand City in the <hi>Kingdom of Chriſt;</hi> The taking therefore of <hi>Conſtantinople,</hi> drew ſo near to the Time of the <hi>Reformation</hi> at the laſt <hi>Half Time</hi> of <hi>Antichriſt,</hi> to Foreſhew, Both thoſe <hi>Antichriſts</hi> of <hi>Eaſt</hi> and <hi>Weſt,</hi> ſhall be conſumed together in 1697 Ending.</p>
+            <pb facs="tcp:105104:11"/>
+            <p n="4">4. That Complication of Power, that ſeems at this Time to be Gathering a<g ref="char:EOLhyphen"/>gainſt the <hi>Ottoman Empire,</hi> looks like a Hopeful Symptom, Their End is now Approaching: For ſo <hi>Daniel</hi> deſcribing his End, ſays, <hi>Tydings out of the</hi> Eaſt <hi>and</hi> North <hi>ſhall Trouble Him,</hi> and then the<note place="margin">Dan. 11. ult.</note> Concluſion of All is, <hi>He ſhall come to his End, and none ſhall help Him.</hi> Now, how very exactly does this agree with the preſent Juncture, <hi>Viz.</hi> The Combination of the <hi>Muſcovian</hi> Forces on one ſide with the <hi>Imperial</hi> on the other ſide, in the ſame Deſign of bringing Him down: And what may come upon Him from <hi>Poland,</hi> He is not Inſenſible of; Now All theſe <hi>Trouble</hi> Him; And that unnatural Aid He had from <hi>France</hi> is deſerting Him; So that Things make up the very Aſpect of that <hi>Prophetic Viſion</hi> of <hi>Daniel</hi> upon Him.</p>
+            <p n="5">5. If we conſider the <hi>Muſcovian Prince;</hi> He is of that Profeſſion of Chriſtia<g ref="char:EOLhyphen"/>nity found among thoſe we Call the <hi>Greek Churches,</hi> who, though they are the other <hi>Wing</hi> of the <hi>Roman Eagle,</hi> or <hi>Empire,</hi> that<note place="margin">
+                  <hi>Rev.</hi> 12. c. 13.</note> Carryed the <hi>Church</hi> into the <hi>Antichriſtian Wilderneſs,</hi> and the other <hi>Horn</hi> of that <hi>Lam<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> that <hi>ſpake as a Dragon,</hi> yet the <hi>Antichriſt</hi> it ſelf ſettled, in what is Called the <hi>Weſtern,</hi> or <hi>Latin Rome,</hi> and the other are not under the Black Brand of that: Theſe two parts of the <hi>Roman Empire</hi> are ſtyled in Relation to one ano<g ref="char:EOLhyphen"/>ther, <hi>The Reſt of Men;</hi> And it is ſaid of the <hi>Antichriſtian Reſt</hi> of Men, Notwithſtanding the Judgment on the <hi>Eaſtern Rome,</hi>
+               <note place="margin">Rev. 9. ult. c. 11. 13.</note> They <hi>Repented not;</hi> But of the <hi>Reſt of Men</hi> of the <hi>Eaſtern</hi> Part, when they ſaw the Judgment on the <hi>Weſtern Babylon,</hi> or <hi>Rome,</hi> they were <hi>Affrighted,</hi> and <hi>Gave Glory to the God of Heaven by Repentance,</hi> which ſpeaks to me in ſhort <hi>Prophetical</hi> Language, the Reſtitution of the <hi>Grecian Churches;</hi> And it imme<g ref="char:EOLhyphen"/>diately follows; <hi>The Second,</hi> that is, <hi>The Mahometan woe is paſt;</hi> I Rejoyce there<g ref="char:EOLhyphen"/>fore, That God hath made uſe of a Prince of the <hi>Grecian</hi> Profeſſion, ſo Victo<g ref="char:EOLhyphen"/>riouſly over the <hi>Mahometans,</hi> by whom they are now held in ſlavery.</p>
+            <p n="6">6. The <hi>Imperial</hi> Power, though yet given according to <hi>Prophecy</hi> to the <hi>Beaſt,</hi> is yet made uſe of in the Senſe, It is ſaid; <hi>The Earth helped the Woman in Drinking up the Mahometan Flood;</hi> The Judgment falls eſpecially on the Civil, and Eccleſiaſtic <hi>Antichriſtian State,</hi> and therefore it doth its utmoſt to reſiſt it; and particularly God hath made uſe of the <hi>German Emperor,</hi> as a Bullwark of the <hi>Weſtern Roman Empire</hi> againſt the <hi>Mahometane</hi> and I hope The <hi>Empire</hi> ſhall yet become an eminent part of the <hi>Kingdom of Chriſt.</hi>
+            </p>
+            <p n="7">7. That Great turn God hath pleaſed to make in the Spirit, and Victoriouſ<g ref="char:EOLhyphen"/>neſs of the <hi>Ottoman</hi> Power, from ſo High a Tyde to ſo low an Ebb; And un<g ref="char:EOLhyphen"/>der this very preſent Prince, who ſeemed to recollect All its former proweſs and magnanimity, but it hath proved like a laſt effort, or as they ſpeak, like a <hi>Lightning before Death.</hi>
+            </p>
+            <p n="8">8. The weight and ſeverity of the ſtroke in ſo great a ſlaughter, and as by an immediate Hand of Gods own, as in Times of old on his Enemies; Terror upon them, Caſtingthem Headlong into the River, Does I hope Intimate a near approaching Final Deſtruction; And that All this is come to paſs in this Year 1697. According to the <hi>Line of Time,</hi> and in thoſe Remarkable
+<pb facs="tcp:105104:11"/> Months we Call <hi>Auguſt,</hi> and <hi>September,</hi> and in the very prophetic Hour of <hi>Au<g ref="char:EOLhyphen"/>guſt.</hi> I have ſo Remarked upon; and ſo upon the Time of the Scripture <hi>Ju<g ref="char:EOLhyphen"/>bilee;</hi> In All which I cannot but hope, God hath been pleaſed to take off much of the Scandal of my miſtake; And this is the Conſummating Reaſon of my Hope.</p>
+            <p>I have now diſpatched the Second Head of this <hi>Apology,</hi> and come to the Third; Or what, It is I expect, when <hi>Time ſhall be no more,</hi> but for the <hi>Finiſh<g ref="char:EOLhyphen"/>ing of the myſtery of God;</hi> Which I ſhall but juſt repreſent in the ſeveral uſes, the Spirit of God makes of the <hi>Word Myſtery</hi> in the New Teſtament; And ſhew, That the <hi>Myſtery</hi> of God in every of thoſe Things, ſhall be <hi>Finiſhed in the Kingdom of Chriſt,</hi> Beginning and Going on to open it ſelf into its Fulleſt Glory.</p>
+            <p n="1">1. The Goſpel, the Comprehenſive <hi>Myſtery, the Mystery of Faith, of Godly<g ref="char:EOLhyphen"/>neſs; The Myſtery of God, of the Father, of Chriſt;</hi> With All its Divine and Glorious Truths, <hi>The Myſterys of the Kingdom of Heaven; ſhall be Finiſhed,</hi> by the Full Revelation of it in the <hi>Everlaſting Goſpel, Preached to every Nation un<g ref="char:EOLhyphen"/>der Heaven;</hi> And particularly in that Branch, <hi>Chriſt Received up into,</hi> or rather for Glory, <hi>Viz.</hi> The Glorious manifeſtation of Himſelf, upon which the <hi>Apoſtacy</hi> hath ſo long layn as an Eclipſe, and Delay.</p>
+            <p n="2">2. The <hi>Myſtery</hi> of the Union betwixt Chriſt and Believers, in the Spiritual Marriage, ſhall be Finiſhed in the <hi>Bride,</hi> the <hi>Lamb's Wife, making her ſelf Ready,</hi> and the <hi>Marriage-Supper of the Lamb.</hi>
+            </p>
+            <p n="3">3. The <hi>Myſtery of the Gentiles,</hi> Univerſally brought in, and illuſtriouſly uni<g ref="char:EOLhyphen"/>ted as a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>One Body</hi> with the <hi>Iſrael</hi> of God.</p>
+            <p>And further, The <hi>Eclipſe</hi> taken off, that is yet upon the <hi>Gentile Churches,</hi> and their return to a Full orb'd Light, according to the Promiſes made to the <hi>Churches</hi> in the Glorious <hi>Kingdom of Chriſt.</hi>
+            </p>
+            <p n="4">4. The <hi>Myſtery</hi> of <hi>Reconciliation, Reception, Salvation,</hi> and <hi>Fulneſs</hi> of All <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> when that Full Glory of the Gentiles is; Then ſhall be a Great Ap<g ref="char:EOLhyphen"/>pearance of the <hi>Fulfilling</hi> All the Great promiſes, and Prophecys we find in both the <hi>Old</hi> and <hi>New Teſtament</hi> to that People; when the <hi>Gentiles Times are Fulfil<g ref="char:EOLhyphen"/>led,</hi> as was Noted; a Summary Aſſurance of which is the very Name of that City, The <hi>New Jeruſalem.</hi>
+            </p>
+            <p n="5">5. The <hi>Myſtery</hi> of the <hi>Seven Churches,</hi> as <hi>Seven Golden Candleſticks,</hi> in the <hi>midſt</hi> of which <hi>The Son of Man walks,</hi> and the <hi>Seven Stars</hi> of the <hi>Evangelick Miniſtry, ſeen in his Right Hand,</hi> in all the Glory of each; <hi>The Seven Churches,</hi> as <hi>Types</hi> of the <hi>Churches,</hi> of the New Teſtament ſucceſſively with their <hi>Angels;</hi> And comprehending under them <hi>Thoſe Grecian Churches of Aſia,</hi> All brought into the Glory and Purity of the <hi>Philadelphian Church;</hi> and the <hi>New Jeruſalem,</hi> the <hi>City of our God coming down into it,</hi> ſhall then be fully <hi>Finiſhed.</hi>
+            </p>
+            <p n="6">6. The <hi>Myſtery</hi> of the <hi>Antichriſtian Church, City,</hi> and the whole <hi>Hierarchy</hi> of it, with All its <hi>Abominations,</hi> ſhall be laid open, underſtood of All, and come to an utter end by the mighty <hi>Spirit of Chriſts Mouth,</hi> by the <hi>Brightneſs of his Ap<g ref="char:EOLhyphen"/>pearance,</hi> and by the Judgments, He will execute according to <hi>Rev.</hi> 17. and <hi>C.</hi> 18. On the <hi>Womans Forehead was written Myſtery; The Myſtery of the Woman, and the Beaſt that Carryed Her,</hi> and the <hi>Judgment</hi> of the <hi>Great Whore,</hi> were made known
+<pb n="14" facs="tcp:105104:12"/> to <hi>John</hi> by the <hi>Angel,</hi> and it ſhall be a <hi>Myſtery Finiſhed,</hi> that is, Laid open and brought to an utter End.</p>
+            <p n="7">7. The <hi>Myſtery</hi> of the <hi>Divine will</hi> in <hi>Recapitulating,</hi> and <hi>Recollecting All Things in Heaven,</hi> and Earth in Chriſt, even in Him, as the <hi>Head;</hi> in the fullneſs of <hi>Times,</hi> of All <hi>Times</hi> (that is) in the Glorious <hi>Thouſand Years-Kingdom of Chriſt,</hi> Eph. 1. 10.</p>
+            <p n="8">8. The <hi>Myſtery</hi> of the <hi>Living Saints changed,</hi> who ſhall Inherit the <hi>New Earth,</hi> during the 1000 <hi>Years, and walk in the Light of the New Heavens,</hi> or <hi>Jeruſalem above,</hi> in the ſight of Chriſt, and of his Saints of the <hi>Firſt Reſurrection,</hi> and in Bodys every way Proportioned to that Bleſſed State, and <hi>Healed with the Leaves of the Tree of Life;</hi> This the Apoſtle ſhews, as a <hi>Great Myſtery,</hi> 1 Cor. 15.</p>
+            <p>Now other then theſe eight Great uſes of the word <hi>Myſtery,</hi> or what is moſt clearly referring to Them, I do not find in Scripture; and ſeeing the <hi>Spirit</hi> of <hi>Prophecy</hi> hath ſo comprehenſively uſed the word <hi>Myſtery</hi> concerning its <hi>Finiſhing,</hi> and that each of theſe things is Styled <hi>Mystery</hi> in the Goſpel, and ſhall have ſo certain a Conſummation, and Complement in the <hi>Kingdom of Chriſt,</hi> We may very well Expound the one by the other, and be ſure of their coming into their <hi>Finiſhing,</hi> when Time of a former ſort, that is, of the <hi>Time, Times, and Half Time ſhall be no more;</hi> And becauſe there are ſuch direct aſſurances of the <hi>Finiſh<g ref="char:EOLhyphen"/>ing</hi> of each of theſe in the <hi>Prophecy</hi> of the <hi>Revelation,</hi> How clear is it!</p>
+            <p>And now I come to the Fourth and Laſt Head; To give the dueſt and juſteſt <hi>Apology</hi> concerning no more Appearance of the <hi>Finiſhing of the myſtery of God,</hi> in All theſe Great mentions of it, already in this Year 1697; And to adjuſt be<g ref="char:EOLhyphen"/>tween the Humbleſt Acknowledgment of my own miſ-underſtanding in what Hath fallen ſo much below; and yet with equal Acknowledgment of what hath been already reflected upon to have paſſed, as an Earneſt and Pledge; And wherein yet I have ſure Grounds (as I moſt Humbly conceive and believe) in the <hi>ſure word of Prophecy</hi> concerning 97. And hereof I will give Account in this ſhort, but yet full Declaration of my ſelf, and of my Senſe herein.</p>
+            <p>The Year 1697. I muſt ſtill look upon, as I have all along Remonſtrated to be the very Year, in which the <hi>Time, Times,</hi> and <hi>Half Time</hi> of the <hi>Antichriſti<g ref="char:EOLhyphen"/>an Apoſtacy,</hi> and of the 1260 Years of the <hi>Witneſſes in Sackcloth,</hi> and of the <hi>Church</hi> in the <hi>Wilderneſs</hi> are to Expire and End.</p>
+            <p>But now, whether in the Beginning of the Year 97. as I firſt Hoped, or towards the Middle of the Year, on the Twenty Third of the Month, we call <hi>Auguſt,</hi> Anſwering to the Twenty Third of the ſame Month, 476. on which the <hi>Roman Weſtern Empire</hi> ceaſed in <hi>Augustulus,</hi> as I had Entertained Hopes, when I found no ſuch Appearances in the Beginning of the Year; or that in, and with the very Ending of the preſent 1697. the aforenamed Terms Expire<g ref="char:punc">▪</g> 
+               <hi>Solomon</hi> ſays, <hi>The Deſire of a Man is his Kind<g ref="char:EOLhyphen"/>neſs.</hi> I deſire with all Senſe of Unworthyneſs to ſpeak it; <hi>The earneſt deſire of my Soul</hi> in Love to the <hi>Kingdom of Chriſt,</hi> and the <hi>Hope of it deferred, making my Heart even ſick,</hi> excited my Zeal to prefer the Times, that I had any Reaſon to pitch upon, that were neareſt: And this, as I now find, produced the miſtake, which I deſire with All Self-Humiliation to confeſs before God, his People,
+<pb facs="tcp:105104:12"/> and to own it as a Rebuke from Him; Though I truſt, in Love, that I might not truſt in my own underſtanding, or be any way Exalted in any Communica<g ref="char:EOLhyphen"/>tions from his Word, but Lye low before Him; and that his Truth, and Wiſ<g ref="char:EOLhyphen"/>dom may be ſeen in my Folly and Weakneſs; and in this regard I take pleaſure in it; That his Power may Graciouſly yet Tabernacle over me, and <hi>His ſtrength be perfected in my weakneſs, and his Grace ſufficient for me;</hi> Under this Correction, I have come to conſider; That this Year 97, muſt perfectly run out, Ere the <hi>Time, Times</hi> and <hi>Half a Time,</hi> the 1260 Days, and the 42 Months End; And that, as God appointed the Beginning of the Sacred <hi>Iſraelitiſh</hi> Year, to be in the Month <hi>Niſan,</hi> or about the <hi>Vernal Equinox;</hi> And that this was the Time of the <hi>Children of Iſrael,</hi> Going out of the Bondage of <hi>Literal Egypt;</hi> So that the Sla<g ref="char:EOLhyphen"/>very under <hi>Spiritual Egypt</hi> ſhould end with the Year, and Deliverance begin in 98. beginning.</p>
+            <p n="2">2. I always Accounted; The <hi>Apocalyptical Epoch,</hi> or the Beginning of Times Given in the <hi>Prophecy of the Revelation,</hi> take Their Commencement from the Day of the <hi>Lords Reſurrection;</hi> which falls in, as is well known with the Be<g ref="char:EOLhyphen"/>ginning of the aforenamed <hi>Iſraelitiſh</hi> Year; and conſequently, the Begin<g ref="char:EOLhyphen"/>ning of the 1260 Years muſt be at the ſame time of the Year; and conſe<g ref="char:EOLhyphen"/>quently alſo, They muſt there end; when therefore they are ended, In the beginning of the Following Year 98. ſhall the <hi>Paſſeover</hi> from <hi>Spiritual Egypt</hi> be Celebrated by <hi>the Spirit of Life on the Witneſſes;</hi> Proportionably ſhall Follow the <hi>Pentecoſt of the Spirit poured out;</hi> Proportionably alſo ſhall follow the <hi>Fall of the Greai City</hi> in the Month call'd <hi>Auguſt,</hi> at the Ceſſation of the <hi>Beaſts Months.</hi>
+            </p>
+            <p n="3">3. Herein ſhall be ſeen the Exactneſs of Divine Truth, and of the Juſt<g ref="char:EOLhyphen"/>neſs of <hi>Chriſt</hi> to his Oath, That there ſhould be <hi>Time, Times,</hi> and<note place="margin">Dan. 12.</note> 
+               <hi>Half a Time</hi> to the utmoſt Hour; The <hi>Antichriſtian</hi> State then Ending with the End of 97. In the very Beginning of 98. <hi>The Sun of Righteouſneſs ſhall come</hi> from under the <hi>Eclipſe</hi> by the <hi>Moon</hi> of <hi>Anti<g ref="char:EOLhyphen"/>chriſt,</hi> and ſhine out with <hi>Healing in his Wings;</hi> and ſo Things go forward to the <hi>Kingdom of Chriſt.</hi> And then comes in the other <hi>Oath</hi> Indented with it; <hi>Time</hi> of ſuch ſorts ſhall <hi>be no more, Rev.</hi> 10.</p>
+            <p>If any ſhould ſay, How if you are miſtaken in the Beginning of 98, as you was in 97. The Anſwer I muſt make, is, I <hi>ſhould then lay my Hand up<g ref="char:EOLhyphen"/>on my Mouth,</hi> and ſay with <hi>Job, I am vile; Once, yea, Twic<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have I ſpoken; But I will do ſo no more:</hi> I would, through Grace, <hi>Repent,</hi> and <hi>abhor my ſelf in Duſt and Aſhes before God,</hi> as having provoked Him ſo Juſtly to Deny his Preſence and Powerful Atteſtation, to what I have declared out of his word; Becauſe He was not pleaſed to Lead me to the true Interpretation of it; And yet I can no more be perſwaded, the Appearance of that Kingdom of Chriſt, I have ſo much ſpoken of, can be far off, then I can be perſwaded, The <hi>Prophecy</hi> of <hi>Daniel</hi> and the <hi>Revelation</hi> are not true; Becauſe I find ſo Great Aſſurance, the whole Scope and Tendency, and the order of the <hi>Viſions,</hi> and ſo many and great Events Recorded in undoubted <hi>Hiſtory</hi> and <hi>Chronology,</hi> do ſo ſet it beyond all doubt, That this Kingdom muſt be near Approaching; But if
+<pb facs="tcp:105104:13"/> the Humble hopes, I have in the End of this, and the Beginning of the Follow<g ref="char:EOLhyphen"/>ing Year, and Prayers for it be not Anſwered; I ſhall look upon my ſelf oblig<g ref="char:EOLhyphen"/>ed, to Acknowledge; The very particular Year, when it ſhall be, God hath hidden from the moſt Humble and Induſtrious ſearch, and Enquiry into the <hi>Pro<g ref="char:EOLhyphen"/>phecy</hi> of Scripture concerning it, which I have the Teſtimony of Conſcience, I have waited upon Him in.</p>
+            <p>
+               <hi>Obj.</hi> If it be ſaid, why will you then having been confeſſedly in an Error con<g ref="char:EOLhyphen"/>cerning the Former parts of the Year 97. Preſume on the End of it, and ſo of the Beginning of 98.</p>
+            <p>
+               <hi>Anſw.</hi> 1. Becauſe I find all the Great Reaſons, I have Founded my Determinati<g ref="char:EOLhyphen"/>on for 97 upon, ſtand as Good and as Firm for the End of it, and for the En<g ref="char:EOLhyphen"/>trance of the <hi>Kingdom of Chriſt</hi> in the Beginning of 98; as in any other part of 97. And in this Regard more Firm, that hereby the Computation of Years from the <hi>Reſurrection of our Lord,</hi> whith is the <hi>Apocalyptick Epoch</hi> is more Aſ<g ref="char:EOLhyphen"/>certained; It is more certainly known where to Begin and where to End: Hereby it is known, the 2300 <hi>Eves, Morns</hi> of Years, <hi>Dan.</hi> 8. Begin in the <hi>Vernal</hi> Beginning of each Year, and ſo End, where the following Year Begins. That the 1260 Years of the <hi>Witneſſes Sackcloth-Prophecy,</hi> and of the <hi>Churches Wilder<g ref="char:EOLhyphen"/>neſs</hi>-State muſt Begin, and End ſo; And that the <hi>Fourty two Moons</hi> of the <hi>Gentiles</hi> and of the <hi>Beaſt,</hi> muſt be Correſpondently Governed; and ſo the mi<g ref="char:EOLhyphen"/>ſtake of <hi>Auguſt</hi> the 23 was only in a Circumſtance; as if the <hi>Lunar</hi> Years of the <hi>Beaſt,</hi> might have begun there and ſo end there. But if the Beginning of all Account of <hi>Apolyptical Time,</hi> and ſo of the End, be the Beginning of each Year in the Spring; Then muſt the Event Anſwering the 23d of <hi>Auguſt,</hi> when the <hi>Roman Weſtern</hi> Empire ceaſed, Fall into the Year, not of the laſt of the 1260, Becauſe the Time of the <hi>Months</hi> will not be run out, while the Laſt is Current; but The firſt Year of the New <hi>Era</hi> of Time, for <hi>Finiſhing the My<g ref="char:EOLhyphen"/>ſtery,</hi> and when the Seventh <hi>Angel</hi> ſhall begin to <hi>Sound,</hi> muſt produce that Great Event in that Month, we Call <hi>Auguſt;</hi> and follow the <hi>Riſing of the Wit<g ref="char:EOLhyphen"/>neſſes</hi> in the Beginning of that Year, Anſwerable to our Lords <hi>Reſurrection;</hi> and the <hi>Powring out of the Spirit,</hi> Anſwerable to the <hi>Apoſtolic Pentecoſt;</hi> and ſo the Fall of the <hi>Beaſtian-Power,</hi> and his Months quite darkened, Anſwerable to that 23d of <hi>Auguſt</hi> when they began.</p>
+            <p>But if there had been the Change of the very Year it ſelf, and ſo the Loſs of it. The very Frame of my <hi>Scripture Line</hi> it ſelf muſt have been altered; If the Year 97 Muſt end it ſelf, that that whole-Courſe of Time may end and a new one begin in the Spring of the following Year, and the <hi>Finiſh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng,</hi> our Lord in that <hi>Viſion, Rev.</hi> 10. ſpeaks of, Begin with it; All ſtands clear and firm in the main; And for this therefore I wait and pray.</p>
+            <p>
+               <hi>Anſw.</hi> 2. When I duly conſider the <hi>Imperial</hi> Victory, not only as I have al<g ref="char:EOLhyphen"/>ready ſpoken of it, but as I have kept in Reſerve till now; That it is to be compar'd, as with the Time of the Ceſſation of the <hi>Weſtern Empire of Rome</hi> in <hi>Auguſtu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us,</hi> ſo with the Determination of <hi>Prophecy</hi> upon, and with Relation to that Ceſſation, and what it Intended, and Deſigned upon it; I
+<pb facs="tcp:105104:13"/> cannot but Acknowledge a very Extraordinary Hand of God in it; and ſuch as owns a peculiar Regard to it, and gives a Pledge of Future Expectation upon it; ſo that I cannot with Juſt Eſtimation of, and Acknowledgment due to that, lay down either my Hopes, or publick Teſtimony concerning this Year Ending, and the Following Beginning.</p>
+            <p>Firſt then, I conſider the Time of this <hi>Imperial Victory,</hi> I have ſo far, and I hope not without Great Weight Remark'd upon<g ref="char:punc">▪</g> and I find the <hi>Imperial</hi> Army ſo in motion and preparation for i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, by the moſt Certain and Va<g ref="char:EOLhyphen"/>luable Intelligences we have Receiv'd of it from our 23d of <hi>Auguſt:</hi> and the very Victory it ſelf upon the 31ſt of that Month, according to our <hi>Old Style</hi> Account, within the Virge of the <hi>Prophetical Hour,</hi> that I cannot but ſtand in Humble Admiration at it: For every <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove of the Armies to that very Day of Victory it ſelf, is to be enfolded with, and united to it; So that herein is in undeniable Matter of Fact, an Agreement thus far in Time.</p>
+            <p>
+               <hi>Obj.</hi> I know the difference of <hi>New</hi> and <hi>Old Style</hi> may be objected; and that the <hi>New Style,</hi> as being the <hi>Reformation of the Calendar</hi> is moſt Exact: And that from this the <hi>Prophetical Hour</hi> in the <hi>Sixth Month,</hi> and ſo the Imperial Victory Flyes further off by the Ten Days difference; and the Peace in the <hi>Seventh Month</hi> from the Day of <hi>Attonement</hi> and <hi>Jubilee.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. But in Anſwer to this, It is nothing ſtrange, If God is pleaſed to neglect that <hi>Papal Reformation</hi> of the <hi>Calendar,</hi> as coming within that uſurpati<g ref="char:EOLhyphen"/>on of his <hi>Changing Times, Dan.</hi> 7. 25, Who would not Reform his <hi>Changing of Laws,</hi> even thoſe Eternal ones of the Word of God; Although he muſt needs ſee a Divine Hand had gone ſome conſiderable Number of Years before Him in ſuch a <hi>Reformation,</hi> by <hi>Luther,</hi> and other eminent Servants of his, <hi>Churches</hi> and <hi>States, viz.</hi> from 1517. to 1582. But He, who by his Great Works of Provi<g ref="char:EOLhyphen"/>dence, <hi>changes Times and Seaſons</hi> with Supreme Right, Juſtice and Authority, or Retains them, pleaſes to Honour the <hi>Old Style</hi> with peculiar Reſpect to this Proteſtant Nation, that ſtill uſes it.</p>
+            <p>
+               <hi>Anſw.</hi> 2. Although ſome <hi>Times</hi> God in his Great Works obſerves Time to the <hi>ſelf ſame Day;</hi> yet at other Times, He may, as he pleaſes<g ref="char:punc">▪</g> make ſome Variation; as <hi>Solomon</hi>'s Beginning to Build the Temple, is dated 2 <hi>Chron. 3. 2. On the ſecond Day of the ſecond Month from the Going of the Children of Iſrael out of Egypt,</hi> which was on the <hi>Self-ſame day</hi> of the <hi>Fourteenth</hi> of the <hi>Firſt Month:</hi> This ſhews God ſometimes is pleaſed to Allo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Latitude: I cannot therefore but moſt Humbly Adore Divine Goodneſs, in Approaching ſo near with ſo Em<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nent a Providence, as ſo compleat a Victory over the Power of the <hi>Eaſtern Antichriſt,</hi> ſo Acknowledged an Enemy to the Goſpel of our Lord Jeſus Chriſt, upon the Time Remarked by the Unworthieſt Mi<g ref="char:EOLhyphen"/>niſter of his <hi>Kingdom.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> But it is much more conſiderable, That the Gracious God hath, by Striking that <hi>M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ck-Antichriſt</hi> ſo near that very Day of the Ceſſation of the <hi>Weſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rn E<gap reason="illegible" resp="#MURP" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>,</hi> in the Year 476; yielding Riſt to the 42 <hi>Moons of the Beaſt,</hi> and the <hi>Ten Kings;</hi> given Warning, that according to the True Adjuſtment
+<pb facs="tcp:105104:14"/> of <hi>Lunar</hi> Time to <hi>Solar,</hi> Their Space of Reign then, ſtrictly ſpeaking, ended, and that was their laſt <hi>Auguſt</hi> of Power; and before the Coming of that Month, in the following Year, They ſhall be in Subjection to the <hi>King of Kings,</hi> and <hi>Lord of Lords.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 4. It is moſt Remarkable, That the Effective Treaties of the <hi>Peace</hi> at <hi>Reſwick,</hi> and the Victory over the <hi>Turks</hi> by the <hi>Imperial Forces</hi> were very hear together, by which our Wiſe and Holy God was pleaſed to ſhow; That He would diſſolve that Union between the <hi>French King,</hi> that would have been the whole <hi>Iron,</hi> or an <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Monarch,</hi> as hath been ſaid, and the <hi>Braſs</hi> of the <hi>Graco-Turkiſh Potentacy,</hi> and Bring that Potentacy Low at the ſame time; and that by both He would preſerve, as hath been before Argued, the <hi>Ten Kingdoms of the We<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ern Empire,</hi> till They ſhall as <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en</hi> be Overcome by the <hi>Lamb</hi> at the Expiration of their Term with the <hi>Beaſt</hi> now ſo near Expiring.</p>
+            <p>And it is indeed very obſervable That as in the diſpoſes of our True God, the Power of the <hi>Eaſtern Empire</hi> was Thrown early after the ſettlement of the <hi>Ten Kingdoms</hi> in the <hi>Weſt,</hi> out of the <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſtern Empire,</hi> and the <hi>Exarchate of Ravenna</hi> made to ceaſe for many Great Services, and Ends according to <hi>Proph<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cy;</hi> So al<g ref="char:EOLhyphen"/>though in a way of Iudgment, God hath ſuff<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red <hi>Mahometan,</hi> parti<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ularly <hi>Tur<g ref="char:EOLhyphen"/>kiſh</hi> Eruptions into it, eſpecially in <hi>Hungary,</hi> and <hi>Tranſy<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vania;</hi> Yet he hath ſtill Reprima<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded the<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and the Attempts of the Greateſt Princes among them, as of their <hi>Magnificent Solyman</hi> upon <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enna,</hi> was ſhamefully diſgraced; and from the Laſt Beſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iging of it in the Year 80 That <hi>Empire</hi> hath been Tottering and Shaking: Be<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auſe t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erein it hath dared to paſs the Bounds ſet it by <hi>Pro<g ref="char:EOLhyphen"/>ph<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cy;</hi> Although it hath entered into the <hi>Holy Land, Egypt hath not eſcaped, Ethiopia hath been at its ſteps;</hi> Yet it never could ſtretch its Hands, as over other Countreys, Or overnow to <hi>Vienna,</hi> m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch leſs to <hi>Rome</hi> carried Alought by the <hi>P<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pal <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſt.</hi> This Stroke therefore hath ſo overtaken and ſurrounded the <hi>Turkiſh Armies</hi> in <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ungary,</hi> as if God would give Teſti<g ref="char:EOLhyphen"/>mony; That at the ſame time He preſerved the <hi>Ten Kingdoms</hi> from the Aſpi<g ref="char:EOLhyphen"/>rings of an <hi>
+                  <g ref="char:V">Ʋ</g>niverſal French Mon<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>chy</hi> by the <hi>Peace<g ref="char:punc">▪</g>
+               </hi> He would alſo Vindicate Th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m from the Overſpread of a <hi>Mahometan Turkiſh Overfl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w.</hi> In all which the wonder<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul Doings of our Great, and Holy God, ought to be Triumph'd in by Al<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> His Servants; and moſt eſpecially by the Un<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orthieſt of his Servants in the <hi>Sure Word of Prophecy,</hi> as happy Forebodes of his Kingdom at the End of 97. and the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eginning and Going on of 98</p>
+            <p>And now upon All that hath been ſpoken, I cannot but Rejoyce, in Recalling that <hi>Proph<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cy</hi> I have <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome Years ago in a former <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reatiſe enlarged upon; Found in the Study of <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſtus L<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pſi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, Ann</hi> 1606. and that hath been near Fifty Years Extant in the Expoſition of D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yer</hi> on thoſe Books of Scripture, called, <hi>The ſmall Prophets;</hi> which I will again here Tranſcribe, for more univerſal Notice, becauſe I Know It to be <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounded on Greateſt Rea<g ref="char:EOLhyphen"/>ſon of Scripture, and Aſſured by the <hi>Chrono<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ogy of Prop<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etic Events,</hi> and there<g ref="char:EOLhyphen"/>fore I cannot but Think the Compoſer Aſſiſted by a <hi>Prophetic Spirit.</hi>
+            </p>
+            <lg>
+               <pb facs="tcp:105104:14" rendition="simple:additions"/>
+               <head>The Original Prophecy.</head>
+               <l>
+                  <hi>Poſt Mille Expletos a Partu Virginis Annos,</hi>
+               </l>
+               <l>
+                  <hi>Et poſt ſexcentos Rurſus ab Orbe Datos:</hi>
+               </l>
+               <l>
+                  <hi>Nonageſimus octavus, Mirabilis Annus</hi>
+               </l>
+               <l>
+                  <hi>Ingruet; Is ſecum Gaudia Laeta Fcret.</hi>
+               </l>
+               <l>
+                  <hi>Corruet Hoc Anno Turcarum Inviſa propago,</hi>
+               </l>
+               <l>
+                  <hi>Roma Tuum in Libris Fabula Nomen Erit.</hi>
+               </l>
+               <l>
+                  <hi>Omnia Tunc-Ibunt Munde, ſurſum, at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Deorſum</hi>
+               </l>
+               <l>
+                  <hi>Imperia, ut populos ſceptra Novella premant:</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>t<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſuum cunctas Verbum Diffundat in or as</hi>
+               </l>
+               <l>
+                  <hi>Chriſtus;</hi> &amp; <hi>Imperitet Nomine <g ref="char:V">Ʋ</g>bi<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſuo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>The Tranſlation.</head>
+               <l>From Virgins Son Thouſand Years when Told,</l>
+               <l>And after them a Hundred more are Roll'd,</l>
+               <l>Then Ninety Eight a Year of wonders comes,</l>
+               <l>And Joys on Joys it heaps to vaſteſt Summs:</l>
+               <l>The Hated ſtem of Turks that Year ſhall Fall,</l>
+               <l>Oh Rome, in ſacred Bo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks Foretold Men All</l>
+               <l>Shall Call thy Name that Lye; Earths Empires move</l>
+               <l>Their upſide down; a Novel Empire proves</l>
+               <l>The <g ref="char:V">Ʋ</g>niverſal Monarchy; Then Chriſt</l>
+               <l>To tb' Everlaſting Goſpel giving R<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt,</l>
+               <l>Shall through All Tongues and Kindreds it diffuſe,</l>
+               <l>And for Imperial ſtyle his own Name uſe.</l>
+            </lg>
+            <p>I would now conelude all, with earneſt deſires of the conſtant Fervent Pray<g ref="char:EOLhyphen"/>ers of the Servants of God, for the ſpeedye<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Anſwer of that Petition; <hi>Thy Kingdom Come; Come Lord Jeſus Come quickly;</hi> and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith my Humbleſt requeſt in ſome Variation from the Apoſtles Words; <hi>Let no M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n trouble me;</hi> For I bear upon my Mind and Condition, the <hi>Stigmata,</hi> or marks of the <hi>Kingdom of Chriſt yet in Delay:</hi> Upon the Account of which I can in ſome meaſure ſay; The pre<g ref="char:EOLhyphen"/>ſent State of this World is <hi>Crucified to me, and I to it.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:105104:15"/>
+            <head>
+               <hi>Catalogue of Mr.</hi> Bever<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>the</hi> Bible <hi>in</hi> Grace-Church-Street.</head>
+            <p n="1">1. THE Catechiſm of the Kingdom of our Lord Jeſus Chriſt, in the Thouſand Years: Shewing by Scripture, 1. That the great Articles of Redemption, 2. The Reſurrection, 3. The Myſtery of the Saints not Dying but Changed, 4. The Judg<g ref="char:EOLhyphen"/>ment, 5. The Delivery up of the Kingdom to God All in All; cannot be Explained at full Dimenſions without it: The Second Edit. with Adit. <hi>Price 6 d.</hi>
+            </p>
+            <p n="2">2. The Kingdom of Jeſus Chriſt entering its Succeſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on this 1697. According to a Cale<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dar of Time <hi>Price 1 s.</hi>
+            </p>
+            <p n="3">3. The Scripture <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine of Time, from the firſt Sabbath, to the great Sabbatiſm of the Kingdom of Chriſt, with the Viſion of the Wheels explain'd, <hi>&amp;c. Price 6 d.</hi>
+            </p>
+            <p n="4">4 A f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſh Memorial of the Kingdom of Chriſt demonſtrated. <hi>Price 6 d.</hi>
+            </p>
+            <p n="5">5 A Diſcourſe upon the Powers of the World to come, or the miraculous Powers of the Goſpel and Kingdom of our Lord Jeſus Chriſt, and their certain Return at the <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>om of Chriſt in its Succeſſion, with the great Charter for the Interpretation of <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>es of the Scriptures, <hi>&amp;c. Price 2 s.</hi>
+            </p>
+            <p n="6">6. Tho<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e that are minded to have the Diſcourſe of the Powers of the World to come without the great Charter, may have it for 1 <hi>s. Price.</hi>
+            </p>
+            <p n="7">7. The Model of Goſpel <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anctification, in ſeveral Generals, from <hi>Rom.</hi> Chap. 7. Ch. 8. following that great Diſcourſe from <hi>Rom. 5. 12. Price 3 d.</hi>
+            </p>
+            <p n="8">8. The Table of Sabatical Times, with its Scale of Years. <hi>Price 2 d.</hi>
+            </p>
+            <p n="9">9. A Scheme of the Prophecy now to be fulfilled, prefixed to the Line of Time, from the firſt to the laſt Sabbatiſm, with mutual Aſpects upon one another, and on the Holy Line, are diſtinctiy obſerv'd: and what ought not to be done, in regard of the nearneſs of the Bleſſed Sabbatiſm. <hi>Price 2 s. 6 d.</hi>
+            </p>
+            <p n="10">10. The Command of God to his People to come out of <hi>Babylon, Price 6 d.</hi>
+            </p>
+            <p n="11">11. Evangelical Repentance unto Salvation not to be repented of. <hi>Price 1 s. 6 d.</hi>
+            </p>
+            <p n="12">12. A Diſcourſe, being the Subſtance of ſeveral Sermons on the Sacrament of the Lords Supper, from 1 <hi>Cor. 11. 23. Mat. 26. 26. Mark 14. 22. Price 6 d.</hi>
+            </p>
+            <p n="13">13. A Conciliatory Judgment concerning Dr. <hi>Crips</hi> Sermons, and Mr. <hi>Baxters</hi> Diſ<g ref="char:EOLhyphen"/>ſatisfactions in them. <hi>Price 2 d.</hi>
+            </p>
+            <p n="14">14. The Model of a Diſcourſe of the great Point, or Doctrine of Holineſs to the Lord. From 1 <hi>Pet. 1. 15, 26. Price 2 d.</hi>
+            </p>
+            <p n="15">15. A Conciliatory Diſcourſe upon Dr. <hi>Criſps</hi> Sermons, on the obſervation of Mr. <hi>Williams</hi>'s Diſſatisfaction in them, <hi>Price 6 d.</hi>
+            </p>
+            <p n="16">16. A brief View of the State of Mankind in the Firſt <hi>Adam,</hi> upon the great Con<g ref="char:EOLhyphen"/>text of the Redemption and Mediation of Jeſus Chriſt, <hi>Price 4 d.</hi>
+            </p>
+            <p n="17">17. An Expoſition of the Divine Standard of Prayer, ſtiied the Lord's Prayer. <hi>Price 1 s.</hi>
+            </p>
+            <p n="18">18. A True State of Goſpel Truth Eſtabliſhed, upon the free Election of God in Chriſt, The Agreement, and yet Difference between Law and Goſpel. Price 6 <hi>d.</hi>
+            </p>
+            <p n="19">19. The Faith by which we are Juſtified, from <hi>Rom.</hi> 5. 1. In ſix Sermons. Price 1 <hi>s.</hi>
+            </p>
+            <p n="20">20. The great Goſpel Grace of Faith, being the ſubſtance of ſeveral Sermons. Price 6. <hi>d.</hi>
+            </p>
+            <p n="21">21. The Bleſſing of <hi>Moſes</hi> on the T<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ibe of <hi>Aſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er.</hi> From <hi>Deut. 33. 25. 6 d.</hi>
+            </p>
+            <p n="22">22. <hi>Jehovah-Jireh,</hi> A Sermon on ſeeking God in Prayer. Price 6 <hi>d.</hi>
+            </p>
+            <p n="23">23. The Loſs of the Soul, the Irrepairable Loſs Opened and Demonſtrated, <hi>&amp;c.</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p n="24">24. A Sermon on the Death of the Queen, on <hi>Hab.</hi> 3. 2. Price 6 <hi>d.</hi>
+            </p>
+            <p n="25">25. Chriſtianity the great Myſtery, in Anſwer to a late Treatiſe, Chriſtianity not Myſterious. Price 1 <hi>s.</hi>
+            </p>
+            <p>At the Places above-mentioned is lately Printed <hi>Rich Redivivus,</hi> or Mr. <hi>Rich's</hi> ſhort hand Im<g ref="char:EOLhyphen"/>proved, in a more brief and eaſie Method, than hath been ſet forth by any hithertofore, now made Publick for general Advantage. By <hi>Nathaniel Stringer,</hi> a quondam ſcholar to the ſaid Mr. <hi>Jer. Rich.</hi> Price 1 <hi>s.</hi> Where you may be likewiſe ſupplied with Mr. <hi>Rich</hi>'s Teſtament and Pſalms, in ſhort hand, Bound.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
